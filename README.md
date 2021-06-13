@@ -1,0 +1,2 @@
+# HugoBlog
+Hugo blog content
