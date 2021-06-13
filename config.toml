@@ -1,0 +1,41 @@
+author = "ycwang"
+baseURL = "https://blog.ycwang.me/"
+languageCode = "zh-cn"
+copyright = "Copyright © 2008–2020, ycwang; all rights reserved."
+paginate = 8
+title = "ycwang's Blog"
+theme = "alageek"
+
+[params]
+copyright = "© 2020 by ycwang"
+copyrightUrl = "https://blog.ycwang.me"
+description = ""
+faviconfile = "https://gokmengorgen.net/img/laughing-man-favicon.png"
+latestpostcount = 8
+highlightjs = true
+highlightjslanguages = [ "bash", "cpp", "python" ]
+toc = true
+posts_navigation = true
+progressively = true
+github = "wangyongcong"
+telegram = "mootaki"
+twitter = "wangyongcong"
+email = "wangyongcong@gmail.com"
+
+[[menu.primary]]
+identifier = "blog"
+name = "Blog"
+url = "/blog/"
+weight = 10
+
+[[menu.primary]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 20
+
+[[menu.footer]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 50
