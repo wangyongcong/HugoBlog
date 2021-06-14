@@ -1,5 +1,5 @@
 author = "ycwang"
-baseURL = "https://www.ycwang.me"
+baseURL = "https://www.ycwang.me/"
 languageCode = "zh-cn"
 copyright = "Copyright © 2008–2020, ycwang; all rights reserved."
 paginate = 8
