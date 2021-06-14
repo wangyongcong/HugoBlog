@@ -41,8 +41,8 @@ class MyMetaFinder(MetaPathFinder):
 		Finder 对象必须实现 find_spec 接口
 		- fullname: 模块的全名，如果是子模块的话，包含完整的路径，e.g "a.b.c"
 		- path:  对应 module.__path__，子模块路径列表，如果是顶层模块，则为 None
-		- target: a module object that the finder may use to make a more educated guess about what spec to return
-
+		- target: a module object that the finder may use to make a more 
+		          educated guess about what spec to return
 		"""
         if path is None or path == "":
             path = [os.getcwd()] # top level import -- 
