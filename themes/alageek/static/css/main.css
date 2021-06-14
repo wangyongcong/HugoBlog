@@ -17,22 +17,6 @@
     color: #000;
 }
 
-/* @media (prefers-color-scheme: light) {
-    :root {
-        --main-bg-color: #fff;
-        --main-font-color: #313537;
-        --main-link-color: #0011ff;
-        --header-font-color: #333333;
-        --header-link-color: #666666;
-        --footer-link-color: #313537;
-        --pagination-border-color: #dee2e6;
-    
-        --color-patreon: #dc3545;
-        --color-ko-fi: #dc3545;
-        --color-bmc: #dc3545;
-    }
-} */
-
 /* Global styles */
 body {
     background-color: var(--main-bg-color);
