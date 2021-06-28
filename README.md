@@ -46,9 +46,16 @@
 {{end}}
 ```
 
-然后在 front matter 中打开当前页面的 Mermaid 支持
+先在 front matter 中打开当前页面的 Mermaid 支持
 ``` yaml
 mermaid: true
+```
+
+通过 shortcode 嵌入 Mermaid 图表
+```markdown
+{{<mermaid align="left">}}
+add mermaid graph here
+{{</mermaid>}}
 ```
 
 ## 图像
