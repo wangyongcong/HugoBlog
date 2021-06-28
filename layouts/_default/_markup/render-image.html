@@ -9,6 +9,7 @@
 {{ $imageset := .Text}}
 <!-- 在资源目录下搜索所有的 "image*" 文件 -->
 {{ $imagelist := .Page.Resources.Match (printf "%s*" $imageset) }}
+{{ $pageres := .Page.Resources}}
 {{if gt (len $imagelist) 1}}
     <!-- 图像列表 -->
     {{ with $imagelist }}
@@ -16,8 +17,10 @@
         <div style="margin-left: 1.5rem">
         {{ range . }}
             <!-- 缩略图的路径 "image.jpg" -> "image-small.jpg" -->
-            {{ $thumb := replace .Permalink "." "-small."}}
-            <a href="{{ .Permalink }}" data-lightbox="{{$imageset}}"><img src="{{if (fileExists "$thumb")}}{{$thumb}}{{else}}{{.Permalink}}{{end}}" /></a>
+            {{if not (in . "-small.")}}
+                {{ $thumb := $pageres.GetMatch (replace . "." "-small.")}}
+                <a href="{{ .Permalink }}" data-lightbox="{{$imageset}}"><img src="{{if $thumb}}{{$thumb}}{{else}}{{.Permalink}}{{end}}" /></a>
+            {{end}}
         {{ end }}
         </div>
     {{ end }}

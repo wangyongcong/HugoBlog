@@ -69,7 +69,7 @@ Interested in computer graphics and game engine techinque.
 - 简介：发布于[网易游戏星城](http://xc.163.com)平台上的横版竞速游戏，支持四人联网，在不同关卡内争夺第一名通过终点，途中可利用各种道具进行对抗。
 - [Gameplay video](https://youtu.be/CNS8KHGz1I0) (Youtube)
 
-![fxd](fxd1.jpg)
+![fxd](fxd1.png)
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/CNS8KHGz1I0" frameborder="0" allowfullscreen></iframe> -->
 
