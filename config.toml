@@ -1,13 +1,13 @@
 author = "ycwang"
 baseURL = "https://www.ycwang.me/"
 languageCode = "zh-cn"
-copyright = "Copyright © 2008–2020, ycwang; all rights reserved."
+copyright = "Copyright © 2020–2021, ycwang all rights reserved."
 paginate = 8
 title = "ycwang's Blog"
 theme = "alageek"
 
 [params]
-copyright = "© 2020 by ycwang"
+copyright = "© 2021 by ycwang"
 copyrightUrl = "https://www.ycwang.me"
 description = "一个游戏程序员的日常笔记"
 faviconfile = "/img/favicon.ico"

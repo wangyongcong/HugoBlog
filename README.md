@@ -34,15 +34,51 @@
 
 1. `_index.md` 是特殊的，作为主页
 2. 资源引用是基于根路径的，例如：```/img/hello.png``` 在发布的时候会简单地将 ```/``` 替换为 ```baseURL```
-3. 文章和资源也可以放在子目录下，例如：```/about/``` 既可以是 ```/about.md``` ，也可以是 ```/about/index.md```
+3. 文章和资源也可以放在子目录下，例如：创建一个 ```about``` 子目录，内容文档为 ```/about/index.md```，资源也放在子目录下 ```/about/image.png```，只需通过名字就可以引用资源 ```![alt](image.png)``` 。这种组织方式称为 ```page bundle```。
 
 ## Mermaid
 
 要提供 Mermaid 支持，添加 `layouts/shortcodes/mermaid.html` ，然后在所用的主题的 `layouts/partials/header.html` 中导入 Mermaid js
-
 ```js
+{{ if .Params.mermaid }}
 <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
 <script>mermaid.initialize({ startOnLoad: true, securityLevel: 'loose', theme: 'dark'});</script>
+{{end}}
 ```
 
- 
+然后在 front matter 中打开当前页面的 Mermaid 支持
+``` yaml
+mermaid: true
+```
+
+## 图像
+通过使用 [lightbox2](https://github.com/lokesh/lightbox2/releases) 来增强图像显示，支持图像列表，点击缩放，按钮导航等功能。
+
+将 `lightbox.min.js`, `lightbox.min.css` 分别放到 `static/js`, `static/ccss` 目录下，然后在 `layouts/partials/header.html` 中添加代码
+```js
+{{ if .Params.gallery }}
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="/js/lightbox.min.js"></script>
+<link href="/css/lightbox.min.css" rel="stylesheet"></link>
+<script>
+  <!-- lightbox2 选项 -->
+  lightbox.option({
+    'fadeDuration': 100,
+    'wrapAround': true
+  })
+</script>
+{{ end }}
+```
+
+添加 `layouts/_default/_markup/render-image.html` 文件，用来 hook markdown image 的渲染。所有文档中的图像链接：
+```markdown
+![alt text](image.png "Title")
+```
+都会用 `render-image.html` 中的代码替换成 html。
+
+最后，在 front matter 中打开当前页面的 lightbox2 支持：
+``` yaml
+gallery: true
+```
+
+要注意的是，图像要以 ```page bundle``` 的形式来组织，即放在页面子目录下面。

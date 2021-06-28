@@ -1,3 +1,8 @@
+---
+title: About
+gallery: true
+---
+
 ## Professional Skills
 Experienced in 3D game development and game networking. Familiar with Unreal Engine, Unity3D, Cocos2d-x, Spine, etc. 
 
@@ -15,7 +20,7 @@ Interested in computer graphics and game engine techinque.
 - 开发工具：NeoX (3D Engine), C++, Python
 - 简介：和风对战卡牌游戏。每位玩家都可以选择四个式神构成卡组，利用这四个式神的核心技能，根据策略调遣他们的法术牌、战斗牌以及形态牌，在战斗区进行攻防博弈，为自己取得最终胜利。
 
-![image](/about/onmyoji.jpg)
+![onmyoji](onmyoji.jpg)
 
 ********
 
@@ -36,10 +41,7 @@ Interested in computer graphics and game engine techinque.
 - 简介：横版动作RPG，有主线剧情模式和多人对战模式，AppStore最佳新游戏推荐，下载榜Top 10，畅销榜Top 50
 - [Gameplay video](https://youtu.be/dAz8r9zStQ4) (Youtube)
 
-![image](/about/hzhy1.jpg)
-![image](/about/hzhy2.jpg)
-![image](/about/hzhy3.jpg)
-![image](/about/hzhy4.jpg)
+![hzhy](hzhy1.jpg)
 
  <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/dAz8r9zStQ4" frameborder="0" allowfullscreen></iframe>  -->
 
@@ -53,7 +55,7 @@ Interested in computer graphics and game engine techinque.
 - 简介：发布于[网易游戏星城](http://xc.163.com)平台上的横版动作游戏，四人组队挑战关卡，无双式爽快击倒大量敌人，并完成各种任务，获得奖励
 - [Gameplay video](https://youtu.be/dE_K94Xy76E) (Youtube)
 
-![image](/about/chronicles_of_crystal.jpg)
+![crystal](chronicles_of_crystal.jpg)
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/dE_K94Xy76E" frameborder="0" allowfullscreen></iframe> -->
 
@@ -67,9 +69,7 @@ Interested in computer graphics and game engine techinque.
 - 简介：发布于[网易游戏星城](http://xc.163.com)平台上的横版竞速游戏，支持四人联网，在不同关卡内争夺第一名通过终点，途中可利用各种道具进行对抗。
 - [Gameplay video](https://youtu.be/CNS8KHGz1I0) (Youtube)
 
-![image](/about/fxd1.jpg)
-![image](/about/fxd2.jpg)
-![image](/about/fxd3.jpg)
+![fxd](fxd1.jpg)
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/CNS8KHGz1I0" frameborder="0" allowfullscreen></iframe> -->
 
@@ -91,9 +91,7 @@ Interested in computer graphics and game engine techinque.
 - 开发工具：In-house 2D Engine, C++
 - 简介：MMO模拟经营游戏，玩家通过种植，养殖，采掘，生产，建造等，来经营自己的庄园。游戏在DIY方面拥有很高的自由度，玩家可以自己设计房屋，庄园，服饰，并生成图纸跟朋友进行交换。
 
-![image](/about/rc1.jpg)
-![image](/about/rc2.jpg)
-![image](/about/rc3.jpg)
+![rc](rc1.jpg)
 
 ## Career:
 - [网易樱花工作室 (NetEase Sakura Studio)](https://netease-ouka.163.com/) (2020~2021)

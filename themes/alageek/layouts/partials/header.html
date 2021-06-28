@@ -1,6 +1,20 @@
 {{ $isTocEnabled := .Scratch.Get "isTocEnabled" }}
+{{ if .Params.mermaid }}
 <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
 <script>mermaid.initialize({ startOnLoad: true, securityLevel: 'loose', theme: 'dark'});</script>
+{{ end }}
+<!-- Load PhotoSwipe js if the load-photoswipe shortcode has been used -->
+{{ if .Params.gallery }}
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="/js/lightbox.min.js"></script>
+<link href="/css/lightbox.min.css" rel="stylesheet"></link>
+<script>
+  lightbox.option({
+    'fadeDuration': 100,
+    'wrapAround': true
+  })
+</script>
+{{ end }}
 <div class="my-4 my-md-5 header">
   <div class="container">
     <div class="row">

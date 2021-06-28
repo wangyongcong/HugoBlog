@@ -1,0 +1,37 @@
+<!--
+    ![image-set](image.jpg)
+    先在页面资源目录匹配文件名称 "image-set*"，如果返回的列表大于1，则使用图像列表的样式，否则使用单个图像的样式
+    对应的缩略图为 image-small.jpg，如果没有则使用原图
+    通过 lightbox2 来展示图像，要在 frontmeta 开启 gallery: true
+-->
+<!-- 字符串匹配："image1.jpg" -> "image" -->
+<!-- {{ $imageset := replaceRE "(\\w+)\\d+[\\.]\\w+" "$1" .Destination }} -->
+{{ $imageset := .Text}}
+<!-- 在资源目录下搜索所有的 "image*" 文件 -->
+{{ $imagelist := .Page.Resources.Match (printf "%s*" $imageset) }}
+{{if gt (len $imagelist) 1}}
+    <!-- 图像列表 -->
+    {{ with $imagelist }}
+        <!-- 调整左边距与当前的 theme 一致 -->
+        <div style="margin-left: 1.5rem">
+        {{ range . }}
+            <!-- 缩略图的路径 "image.jpg" -> "image-small.jpg" -->
+            {{ $thumb := replace .Permalink "." "-small."}}
+            <a href="{{ .Permalink }}" data-lightbox="{{$imageset}}"><img src="{{if (fileExists "$thumb")}}{{$thumb}}{{else}}{{.Permalink}}{{end}}" /></a>
+        {{ end }}
+        </div>
+    {{ end }}
+{{else}}
+    <!-- 单个图像 -->
+    {{ $thumb := .Page.Resources.GetMatch (replace .Destination "." "-small.") }}
+    {{ $image := .Page.Resources.GetMatch .Destination }}
+    <!-- 调整左边距与当前的 theme 一致 -->
+    <figure style="display:inline-block; margin-left: 1.5rem">
+        <a href="{{ $image }}" data-lightbox="{{.Text}}" data-title="{{.Title}}">
+            <img style="max-width:100%; object-fit:contain" src="{{if $thumb}}{{$thumb}}{{else}}{{$image}}{{end}}" alt="{{ .Text }}" title="{{ .Title }}" />
+        </a>
+        {{if .Title}}
+        <figcaption style="text-align:center; font-size:0.6em; font-style:italic">{{.Title}}</figcaption>
+        {{end}}
+    </figure>
+{{end}}
