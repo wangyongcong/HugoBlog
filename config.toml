@@ -3,13 +3,13 @@ baseURL = "https://www.ycwang.me/"
 languageCode = "zh-cn"
 copyright = "Copyright © 2020–2021, ycwang all rights reserved."
 paginate = 8
-title = "ycwang's Blog"
+title = "Portfolio"
 theme = "alageek"
 
 [params]
 copyright = "© 2021 by ycwang"
 copyrightUrl = "https://www.ycwang.me"
-description = "一个游戏程序员的日常笔记"
+description = "Portfolio"
 faviconfile = "/img/favicon.ico"
 latestpostcount = 8
 logofile = "/img/logo.png"
@@ -19,20 +19,18 @@ toc = true
 posts_navigation = true
 progressively = true
 github = "wangyongcong"
-telegram = "mootaki"
-twitter = "wangyongcong"
 email = "wangyongcong@gmail.com"
 
 [[menu.primary]]
-identifier = "blog"
-name = "Blog"
-url = "/blog/"
+identifier = "EN"
+name = "English"
+url = "/"
 weight = 10
 
 [[menu.primary]]
-identifier = "about"
-name = "About"
-url = "/about/"
+identifier = "CN"
+name = "中文"
+url = "/CN/"
 weight = 20
 
 [[menu.footer]]
