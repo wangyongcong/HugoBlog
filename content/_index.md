@@ -36,16 +36,15 @@ I'm full of passion for games and technique. I'm not only a developer, but also 
 
 [YouTube Video](https://youtu.be/9biJipMQ-9Y)
 
-**My Role:** Staff Engineer, Lead Multiplayer Programmer
-
 **Project description:**  NetEase Sakura Studio collaboratd with Square-Enix to develop the game and undertook the development work. During this period, I worked at the studio and involved in the development of the game.
+
+**My role:** Multiplayer Programmer
 
 **My accomplishments:**
 
-1. Participated in the development of the combat system which was on top of GAS
-2. Maintained the Unreal Python binding tools which was used for gameplay scripting. Ported the Python runtime to PS4/5.
-3. Developed several experimental multiplayer gameplay prototypes.
-4. Led a team to develop a generic networked combat system.
+1. Maintained the Unreal Python binding plugin which was used for gameplay scripting. Ported the Python runtime to PS4/5.
+2. Developed several experimental multiplayer gameplay prototypes.
+3. Led a team to develop a generic networked combat system.
 
 ### Onmyoji The Card Game (2018-2020)
 
@@ -53,9 +52,9 @@ I'm full of passion for games and technique. I'm not only a developer, but also 
 
 [YouTube Video](https://youtu.be/8XSc2hGH3Ak)
 
-**My Role:** Lead Client Programmer
-
 **Project description:** The game was released on iOS/Android/Steam. It’s a card game like MTG. Players purchase packs to collect cards, and then engage in online battles with other players.
+
+**My role:** Lead Client Programmer
 
 **My accomplishments:**
 
@@ -69,9 +68,9 @@ I'm full of passion for games and technique. I'm not only a developer, but also 
 
 [YouTube Video](https://youtu.be/wGAwF4LlvWY)
 
-**My Role:** Lead Programmer
-
 **Project description:** 3D side scrolling action MOBA game. Support 4 vs 4 team fighting. The game was interrupted after twice iOS test flight. 
+
+**My role:** Lead Programmer
 
 **My accomplishments:** 
 
@@ -86,9 +85,9 @@ I'm full of passion for games and technique. I'm not only a developer, but also 
 
 [YouTube Video](https://youtu.be/mKkVkG_UrrY)
 
-**My Role:** Lead Programmer
-
 **Project description:** 3D Side scrolling multiplayer ARPG.  Challenge dungeons with a team of maximum 4 players or engaging in 1 vs 1 PVP battle. The game was released on iOS/Android.
+
+**My role:** Lead Programmer
 
 **My accomplishments:** 
 
@@ -104,9 +103,9 @@ I'm full of passion for games and technique. I'm not only a developer, but also 
 
 [YouTube Video](https://youtu.be/dE_K94Xy76E)
 
-**My Role:** Gameplay / Multiplayer Programmer
-
 **Project description:** A side scrolling multiplayer action game released on NetEase casual game platform  iTown (PC). It supported 4-player team to challenge dungeons.
+
+**My role:** Gameplay / Multiplayer Programmer
 
 **My accomplishments:** 
 
@@ -121,9 +120,9 @@ I'm full of passion for games and technique. I'm not only a developer, but also 
 
 [YouTube Video](https://youtu.be/WnF3DK0E0WM)
 
-**My Role:** Gameplay / Multiplayer / Tool Programmer
-
 **Project description:** The game was a side scrolling multiplayer racing game. Maximum 4 players raced in the scene like Super Mario, attacked each other using various items picked on the path. The game was released on NetEase casual game platform iTown (PC)
+
+**My role:** Gameplay / Multiplayer / Tool Programmer
 
 **My accomplishments:** 
 
@@ -137,9 +136,11 @@ I'm full of passion for games and technique. I'm not only a developer, but also 
 
 [YouTube Video](https://youtu.be/GPf5Xa5EeUw)
 
-**My Role:** Gameplay Programmer
-
-**Project description:** Multiplayer simulated game released on PC in 2008. Like Harvest Moon, players manage their own farms by planting corps and fruit trees, raising livestock, creating machinery, building house and dressed it with furniture. Players can visit each other’s farm or meet in the town. 
+**Project description:** Multiplayer simulation game released on PC in 2008. Like Harvest Moon, players manage their own farms by planting corps and fruit trees, raising livestock, creating machinery, building house and dressed it with furniture. Players can visit each other’s farm or meet in the town. 
 There was an in-game design tool for players to customize their house. 
 The game offered a high degree of freedom and gained very good feedback.
+
+**My role:** Gameplay Programmer
+
+**My accomplishments:** Gameplay features
 
