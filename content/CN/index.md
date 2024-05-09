@@ -51,7 +51,7 @@ gallery: true
 - 开发工具：UE4, C++, Python
 - 简介：有多款动作游戏项目，其中包括与 Squre-Enix 合作开发的 **圣剑传说 Visions of Mana** 
 
-### [阴阳师百闻牌 (Onmyoji: The Card Game)](https://ssr.163.com/)
+### [阴阳师百闻牌](https://ssr.163.com/)
 
 ![onmyoji](index/onmyoji.jpg)
 
@@ -65,7 +65,7 @@ gallery: true
 
 ********
 
-### 魂械纪元 (Soul and Machine)
+### 魂械纪元
 
 ![code name M](index/soul-and-machine.jpg)
 
@@ -79,7 +79,7 @@ gallery: true
 
 ********
 
-### 魂之幻影 (The Phantom Soul)
+### 魂之幻影
 ![hzhy](hzhy1.jpg)
 
 [YouTube Video](https://youtu.be/dAz8r9zStQ4) 
@@ -92,7 +92,7 @@ gallery: true
 
 ********
 
-### 水晶战记 (Chronicles of Crystal)
+### 水晶战记
 ![crystal](chronicles_of_crystal.jpg)
 
 [YouTube Video](https://youtu.be/dE_K94Xy76E)
