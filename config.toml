@@ -3,7 +3,7 @@ baseURL = "https://www.ycwang.me/"
 languageCode = "zh-cn"
 copyright = "Copyright © 2020–2021, ycwang all rights reserved."
 paginate = 8
-title = "Portfolio"
+title = "Yongcong Wang"
 theme = "alageek"
 
 [params]

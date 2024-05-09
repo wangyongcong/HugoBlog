@@ -1,16 +1,21 @@
 ---
-title: About
+title: 
 gallery: true
 ---
 
+# Summary
+
+15年经验的老程序，开发过不同类型的游戏 (**ACT, ARPG, CCG, SLG**)，从 PC 到手游，成功发布过 5 款产品。热爱游戏，从 FC 马里奥开始玩到现在。以前喜欢 JRPG，现在最爱 CRPG；虽然是动作游戏苦手，却乐于在街霸中受虐，在交界地浪荡；曾经在群星之间迎接堕落帝国的舰队，在文明的世界中 one more turn 直到天边泛白。
+
 ## Skills
+
 **语言** C++, C#, Python, Lua
 
 **引擎** Unity3D, Unreal Engine
 
 **工具** Spine, Live2D, CRIWARE Softdec, WWISE, Bullet, Box2D, IMGUI, Cocos2d-x 
 
-**经验较多** Gameplay, Combat System, Animations, Physics, Networking, GUI, Tools
+**较多经验** Gameplay, Combat System, Animations, Physics, Networking, GUI, Tools
 
 ## Career
 - [灵犀互娱平平无奇工作室](https://www.lingxigames.com/) (2022至今)
@@ -27,18 +32,45 @@ gallery: true
 ********
 
 ## Projects
+### 育成游戏项目, 灵犀互娱 (2022 至今)
+
+- 类型：育成
+- 平台：iOS, Android
+- 开发工具：Unity3D, C#, Lua
+- 简介：主要参与一款育成游戏的开发
+- 工作职责：故事线研发
+
+### 动作游戏项目, 樱花工作室 (2020-2022)
+
+![visions of mana](index/visions-of-mana.jpg)
+
+[YouTube Video](https://youtu.be/9biJipMQ-9Y)
+
+- 类型：ACT / ARPG
+- 平台：PS4/5
+- 开发工具：UE4, C++, Python
+- 简介：有多款动作游戏项目，其中包括与 Squre-Enix 合作开发的 **圣剑传说 Visions of Mana** 
+
 ### [阴阳师百闻牌 (Onmyoji: The Card Game)](https://ssr.163.com/)
+
+![onmyoji](index/onmyoji.jpg)
+
+[YouTube Video](https://youtu.be/8XSc2hGH3Ak)
+
 - 职位：客户端主程
 - 类型：CCG
 - 平台：iOS, Android
 - 开发工具：NeoX (3D Engine), C++, Python
 - 简介：和风对战卡牌游戏。每位玩家都可以选择四个式神构成卡组，利用这四个式神的核心技能，根据策略调遣他们的法术牌、战斗牌以及形态牌，在战斗区进行攻防博弈，为自己取得最终胜利。
 
-![onmyoji](onmyoji.jpg)
-
 ********
 
 ### 魂械纪元 (Soul and Machine)
+
+![code name M](index/soul-and-machine.jpg)
+
+[YouTube Video](https://youtu.be/wGAwF4LlvWY)
+
 - 职位：主程序
 - 类型：ACT/MOBA
 - 平台：iOS, Android
@@ -47,43 +79,42 @@ gallery: true
 
 ********
 
-### [魂之幻影 (The Phantom Soul)](https://hzhy.163.com/)
+### 魂之幻影 (The Phantom Soul)
+![hzhy](hzhy1.jpg)
+
+[YouTube Video](https://youtu.be/dAz8r9zStQ4) 
+
 - 职位：主程序
 - 类型：ARPG
 - 平台：iOS, Android
 - 开发工具：NeoX (3D Engine), C++, Python
 - 简介：横版动作RPG，有主线剧情模式和多人对战模式，AppStore最佳新游戏推荐，下载榜Top 10，畅销榜Top 50
-- [Gameplay video](https://youtu.be/dAz8r9zStQ4) (Youtube)
-
-![hzhy](hzhy1.jpg)
 
 ********
 
 ### 水晶战记 (Chronicles of Crystal)
+![crystal](chronicles_of_crystal.jpg)
+
+[YouTube Video](https://youtu.be/dE_K94Xy76E)
+
 - 职位：高级程序
 - 类型：APRG
 - 平台：PC
 - 开发工具：NeoX (3D Engine), C++, Python
 - 简介：发布于[网易游戏星城](http://xc.163.com)平台上的横版动作游戏，四人组队挑战关卡，无双式爽快击倒大量敌人，并完成各种任务，获得奖励
-- [Gameplay video](https://youtu.be/dE_K94Xy76E) (Youtube)
-
-![crystal](chronicles_of_crystal.jpg)
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/dE_K94Xy76E" frameborder="0" allowfullscreen></iframe> -->
 
 ********
 
 ### [风行岛](http://xc.163.com/gameintro/game/fxd/yxjs.html)
+![fxd](fxd1.png)
+
+[YouTube Video](https://youtu.be/CNS8KHGz1I0)
+
 - 职位：高级程序
 - 类型：ACT
 - 平台：PC
 - 开发工具：NeoX (3D Engine), C++, Python
 - 简介：发布于[网易游戏星城](http://xc.163.com)平台上的横版竞速游戏，支持四人联网，在不同关卡内争夺第一名通过终点，途中可利用各种道具进行对抗。
-- [Gameplay video](https://youtu.be/CNS8KHGz1I0) (Youtube)
-
-![fxd](fxd1.png)
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/CNS8KHGz1I0" frameborder="0" allowfullscreen></iframe> -->
 
 ********
 
@@ -97,10 +128,12 @@ gallery: true
 ********
 
 ### [浪漫庄园](http://rc.leeuu.com)
+![rc](rc1.jpg)
+
+[YouTube Video](https://youtu.be/GPf5Xa5EeUw)
+
 - 职位：初级程序
 - 类型：模拟经营
 - 平台：PC
 - 开发工具：In-house 2D Engine, C++
 - 简介：MMO模拟经营游戏，玩家通过种植，养殖，采掘，生产，建造等，来经营自己的庄园。游戏在DIY方面拥有很高的自由度，玩家可以自己设计房屋，庄园，服饰，并生成图纸跟朋友进行交换。
-
-![rc](rc1.jpg)
