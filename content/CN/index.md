@@ -5,7 +5,7 @@ gallery: true
 
 # Summary
 
-15年经验的老程序，开发过不同类型的游戏 (**ACT, ARPG, CCG, SLG**)，从 PC 到手游，成功发布过 5 款产品。热爱游戏，从 FC 马里奥开始玩到现在。以前喜欢 JRPG，现在最爱 CRPG；虽然是动作游戏苦手，却乐于在街霸中受虐，在交界地浪荡；曾经在群星之间迎接堕落帝国的舰队，在文明的世界中 one more turn 直到天边泛白。
+15年经验的游戏程序，开发过不同类型的游戏 (ACT, ARPG, CCG, SLG)。从PC端到移动端，成功发布过 5 款产品。热爱游戏的资深玩家，从 FC马里奥开始，玩过大量游戏，见证了次世代和移动游戏的发展。最爱 CRPG 和动作游戏，街霸5超过1000小时，艾尔登法环300小时。
 
 ## Skills
 
@@ -13,17 +13,15 @@ gallery: true
 
 **引擎** Unity3D, Unreal Engine
 
-**工具** Spine, Live2D, CRIWARE Softdec, WWISE, Bullet, Box2D, IMGUI, Cocos2d-x 
+**工具** Spine, Live2D, Magica Cloth2, CRIWARE Softdec2, WWISE, Bullet, Box2D, IMGUI, Cocos2d-x 
 
-**较多经验** Gameplay, Combat System, Animations, Physics, Networking, GUI, Tools
+**擅长** Gameplay, Combat System, Story System, Animations, Physics, Networking, GUI, Tools
 
 ## Career
-- [灵犀互娱平平无奇工作室](https://www.lingxigames.com/) (2022至今)
-- [网易樱花工作室](https://netease-ouka.163.com/) (2020~2022)
-- [网易 Atlas 工作室](http://game.163.com/) (2011~2020)
+- [阿里巴巴灵犀互娱](https://www.lingxigames.com/) (2022至今)
+- [网易游戏](https://www.neteasegames.com/) (2011-2022)
 - 上海扬耀网络 (2010~2011)
-- [网易登山工作室](http://game.163.com/) (2009~2010)
-- [北京天成胜境](http://rc.leeuu.com/) (2006~2009)
+- [乐游网](http://rc.leeuu.com/) (2006~2009)
 
 ## Education
 
@@ -32,13 +30,12 @@ gallery: true
 ********
 
 ## Projects
-### 育成游戏项目, 灵犀互娱 (2022 至今)
+### 二次元育成, 灵犀互娱 (2022 至今)
 
-- 类型：育成
-- 平台：iOS, Android
+- 类型：SLG
+- 平台：移动
 - 开发工具：Unity3D, C#, Lua
-- 简介：主要参与一款育成游戏的开发
-- 工作职责：故事线研发
+- 简介：体育题材的二次元育成游戏，拥有丰富的角色和故事情节，尚未发布。
 
 ### 动作游戏项目, 樱花工作室 (2020-2022)
 
@@ -49,7 +46,7 @@ gallery: true
 - 类型：ACT / ARPG
 - 平台：PS4/5
 - 开发工具：UE4, C++, Python
-- 简介：有多款动作游戏项目，其中包括与 Squre-Enix 合作开发的 **圣剑传说 Visions of Mana** 
+- 简介：有多款动作游戏项目，包括与 Squre-Enix 合作开发的 **圣剑传说 Visions of Mana**。
 
 ### [阴阳师百闻牌](https://ssr.163.com/)
 
