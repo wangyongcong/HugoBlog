@@ -18,10 +18,10 @@ gallery: true
 **擅长** Gameplay, Combat System, Story System, Animations, Physics, Networking, GUI, Tools
 
 ## Career
-- [阿里巴巴灵犀互娱](https://www.lingxigames.com/) (2022至今)
-- [网易游戏](https://www.neteasegames.com/) (2011-2022)
-- 上海扬耀网络 (2010~2011)
-- [乐游网](http://rc.leeuu.com/) (2006~2009)
+- [阿里巴巴灵犀互娱](https://www.lingxigames.com/) 技术专家 (2022-2024)
+- [网易游戏](https://www.neteasegames.com/) 技术专家 (2011-2022)
+- 上海扬耀网络 中级工程师 (2010~2011)
+- [乐游网](http://rc.leeuu.com/) 游戏开发工程师 (2006~2009)
 
 ## Education
 
@@ -30,8 +30,9 @@ gallery: true
 ********
 
 ## Projects
-### 二次元育成, 灵犀互娱 (2022 至今)
+### 二次元育成, 灵犀互娱 (2022-2024)
 
+- 职位：客户端和剧情系统开发
 - 类型：SLG
 - 平台：移动
 - 开发工具：Unity3D, C#, Lua
@@ -43,10 +44,11 @@ gallery: true
 
 [YouTube Video](https://youtu.be/9biJipMQ-9Y)
 
+- 职位：项目主程 / 多人游戏组长
 - 类型：ACT / ARPG
 - 平台：PS4/5
 - 开发工具：UE4, C++, Python
-- 简介：有多款动作游戏项目，包括与 Squre-Enix 合作开发的 **圣剑传说 Visions of Mana**。
+- 简介：参与多款动作游戏项目的开发，包括与 Square-Enix 合作开发的 **圣剑传说 Visions of Mana**。
 
 ### [阴阳师百闻牌](https://ssr.163.com/)
 
@@ -68,7 +70,7 @@ gallery: true
 
 [YouTube Video](https://youtu.be/wGAwF4LlvWY)
 
-- 职位：主程序
+- 职位：项目主程
 - 类型：ACT/MOBA
 - 平台：iOS, Android
 - 开发工具：NeoX (3D Engine), C++, Python
@@ -81,7 +83,7 @@ gallery: true
 
 [YouTube Video](https://youtu.be/dAz8r9zStQ4) 
 
-- 职位：主程序
+- 职位：项目主程
 - 类型：ARPG
 - 平台：iOS, Android
 - 开发工具：NeoX (3D Engine), C++, Python

@@ -2,8 +2,8 @@
 setlocal
 
 rem 设置源目录和目标目录
-set "source_dir=D:\HugoBlog\destination"
-set "target_dir=D:\ycwang.blog"
+set "source_dir=C:\projects\HugoBlog\destination"
+set "target_dir=C:\projects\wangyongcong.github.io"
 
 rem 删除目标目录下的所有文件及子目录，但排除以 "." 开头的隐藏目录
 echo Deleting old files in target directory...
