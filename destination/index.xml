@@ -4,23 +4,16 @@
     <title>Yongcong Wang</title>
     <link>https://www.ycwang.me/</link>
     <description>Recent content on Yongcong Wang</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>zh-cn</language>
-    <copyright>Copyright © 2020–2021, ycwang all rights reserved.</copyright><atom:link href="https://www.ycwang.me/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2020–2021, ycwang all rights reserved.</copyright>
+    <atom:link href="https://www.ycwang.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://www.ycwang.me/cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.ycwang.me/cn/</guid>
-      <description>Summary 15年经验的游戏程序，开发过不同类型的游戏 (ACT, ARPG, CCG, SLG)。从PC端到移动端，成功发布过 5 款产品。热爱游戏的资深玩家，从 FC马里奥开始，玩过大量游戏，见证了次世代和移动游戏的发展。最爱 CRPG 和动作游戏，街霸5超过1000小时，艾尔登法环300小时。
-Skills 语言 C++, C#, Python, Lua
-引擎 Unity3D, Unreal Engine
-工具 Spine, Live2D, Magica Cloth2, CRIWARE Softdec2, WWISE, Bullet, Box2D, IMGUI, Cocos2d-x
-擅长 Gameplay, Combat System, Story System, Animations, Physics, Networking, GUI, Tools
-Career  阿里巴巴灵犀互娱 (2022至今) 网易游戏 (2011-2022) 上海扬耀网络 (2010~2011) 乐游网 (2006~2009)  Education 西安理工大学, 材料物理学士学位 (2001~2005)
- Projects 二次元育成, 灵犀互娱 (2022 至今)  类型：SLG 平台：移动 开发工具：Unity3D, C#, Lua 简介：体育题材的二次元育成游戏，拥有丰富的角色和故事情节，尚未发布。  动作游戏项目, 樱花工作室 (2020-2022) YouTube Video</description>
+      <description>Summary 15年经验的游戏程序，开发过不同类型的游戏 (ACT, ARPG, CCG, SLG)。从PC端到移动端，成功发布过 5 款产品。热爱游戏的资深玩家，从 FC马里奥开始，玩过大量游戏，见证了次世代和移动游戏的发展。最爱 CRPG 和动作游戏，街霸5超过1000小时，艾尔登法环300小时。&#xA;Skills 语言 C++, C#, Python, Lua&#xA;引擎 Unity3D, Unreal Engine&#xA;工具 Spine, Live2D, Magica Cloth2, CRIWARE Softdec2, WWISE, Bullet, Box2D, IMGUI, Cocos2d-x&#xA;擅长 Gameplay, Combat System, Story System, Animations, Physics, Networking, GUI, Tools&#xA;Career 阿里巴巴灵犀互娱 技术专家 (2022-2024) 网易游戏 技术专家 (2011-2022) 上海扬耀网络 中级工程师 (2010~2011) 乐游网 游戏开发工程师 (2006~2009) Education 西安理工大学, 材料物理学士学位 (2001~2005)&#xA;Projects 二次元育成, 灵犀互娱 (2022-2024) 职位：客户端和剧情系统开发 类型：SLG 平台：移动 开发工具：Unity3D, C#, Lua 简介：体育题材的二次元育成游戏，拥有丰富的角色和故事情节，尚未发布。 动作游戏项目, 樱花工作室 (2020-2022) YouTube Video</description>
     </item>
-    
   </channel>
 </rss>

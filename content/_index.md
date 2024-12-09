@@ -18,6 +18,7 @@ I'm full of passion for games and technique. I'm not only a developer, but also 
 - **Fields:** Gameplay, Combat System, Animations, Physics, Networking, GUI, Tools
 
 ## Career
+- [Supernova Games](https://www.gamesupernova.com/), Unity Engineer (2024-Present)
 - [LingXi Games of Alibaba Group](https://www.alibabagroup.com/en-US/about-alibaba-businesses-1496656377454526464), Staff Engineer (2022-2024) 
 - [NetEase Games](https://www.neteasegames.com/), ranging from Mid-Level to Staff Engineer (2011-2022)  
 - YangYao Games, Mid-Level Engineer (2010-2011)  
@@ -29,15 +30,34 @@ I'm full of passion for games and technique. I'm not only a developer, but also 
 
 ## Projects
 
+### Purr-fect Chef: Cats Can Cook (2024-Present)
+
+![visions of mana](purr-fect-chef.jpg)
+
+[Google Play](https://play.google.com/store/apps/details?id=com.gameplus.teaapp&hl=en_US)
+
+**Development Tools:** Unity3D, C#, Spine
+
+**Target Platform:** Mobile
+
+**Project description:**   This project was originally developed using Cocos2d and is now being ported to Unity3D, with
+a comprehensive upgrade in technology, graphics, animations, etc. I am responsible for the complete rewrite of the Unity portion.
+
+**My role:** Unity Engineer
+
+**My accomplishments:** Rewrite the gameplay, upgrade graphics and animations, patching, networking and other aspects.
+
 ### Codename K3 (2022-2024)
 
-[Developing gameplay video is not public and requested by demand]()
+[Developing Gameplay Video](https://youtu.be/QiUfZgKVIzk)
+
+[Developing Interactive Story](https://youtu.be/qHWQFnDGQrM)
 
 **Development Tools:** Unity3D, C#, Lua, Live2D
 
 **Target Platform:** Mobile
 
-**Project description:**  The project was originally found to replicate the success of *Uma Musume Pretty Derby*. Players will manage a girls' basketball club in the game, which also tells the stories of the girls' basketball team. I joined the project at an early stage to help the team to build the story toolchain, character animation and physics. 
+**Project description:**  The project was originally found to replicate the success of *Uma Musume Pretty Derby*. Players manage a girls' basketball club in the game, explore the stories of the girls' basketball team. I joined the project at an early stage to help the team to build the story toolchain, character animation and physics. 
 
 **My role:** Lead Gameplay / Story Engineer
 
