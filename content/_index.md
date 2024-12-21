@@ -7,22 +7,22 @@ date: "2024-05-4"
 
 I'm a game programmer with over **15 years of experience** in the game industry. I had participated in the development of multiple commercial games across a variety of genres (**ACT, ARPG, CCG, SLG**) and platforms (**PC, iOS, Android**). Among them, 5 were successfully released and generated substantial profits, with 2 of them being under my leadership. I’m Proficient in game architect, gameplay development, character animation, game physics, GUI, networking, and tools development. I also have some experience in computer graphics, game server and database. 
 
-I’m Proficient in **Unity3D** and **Unreal Engine** game development. I had written in-house C++ engine code for years in company. I can handle almost everything of a game such as character controller, combat system, animations, physics, networking, GUI, tools, and more. I can also help with graphic code (but NOT AAA title graphic). 
+I’m Proficient in **Unity3D** and **Unreal Engine** game development. I had written in-house C++ engine code for years in game industry. I can handle almost everything of a game such as character controller, combat system, animations, physics, networking, GUI, tools, and more. I can also help with graphic code (but NOT AAA title graphic). 
 
 I'm full of passion for games and technique. I'm not only a developer, but also a hardcore player. I spend thousands of hours in games such as Street Fighter 5, Elden Ring, Cyberpunk 2077, Baldur's Gate 3.
 
 ## Skills
 - **Languages:** C++, C#, Python, Lua
 - **Engines:** Unity3D, Unreal Engine
-- **Tools:** Spine, Live2D, CRIWARE Softdec, WWISE, Bullet, Box2D, IMGUI, Cocos2d-x 
+- **Tools:** Spine, Live2D, WWISE, CRIWARE Plugins, Bullet, Box2D, IMGUI, Cocos2d-x 
 - **Fields:** Gameplay, Combat System, Animations, Physics, Networking, GUI, Tools
 
 ## Career
 - [Supernova Games](https://www.gamesupernova.com/), Unity Engineer (2024-Present)
-- [LingXi Games of Alibaba Group](https://www.alibabagroup.com/en-US/about-alibaba-businesses-1496656377454526464), Staff Engineer (2022-2024) 
-- [NetEase Games](https://www.neteasegames.com/), ranging from Mid-Level to Staff Engineer (2011-2022)  
-- YangYao Games, Mid-Level Engineer (2010-2011)  
-- Leeuu Games, ranging from Junior to Mid-Level Engineer (2006-2009)  
+- [LingXi Games of Alibaba Group](https://www.alibabagroup.com/en-US/about-alibaba-businesses-1496656377454526464), Senior Engineer (2022-2024) 
+- [NetEase Games](https://www.neteasegames.com/), Senior Engineer (2011-2022)  
+- YangYao Games, Game Engineer (2010-2011)  
+- Leeuu Games, Game Engineer (2006-2009)  
 
 ## Education
 - [XiAn University of Technology](https://www.xaut.edu.cn/), Bachelor of Materials Physics 
