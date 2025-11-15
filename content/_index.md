@@ -32,13 +32,13 @@ I'm full of passion for games and technique. I'm not only a developer, but also 
 
 ### Purr-fect Chef: Cats Can Cook (2024-Present)
 
-![visions of mana](purr-fect-chef.jpg)
+![Purr-fect-Chef](purr-fect-chef.jpg)
 
-[Google Play](https://play.google.com/store/apps/details?id=com.gameplus.teaapp&hl=en_US)
+[App Store](https://apps.apple.com/us/app/purr-fect-chef-cats-can-cook/id1603186963) | [Google Play](https://play.google.com/store/apps/details?id=com.gameplus.teaapp&hl=en_US) | [Steam](https://store.steampowered.com/app/3510590/)
 
 **Development Tools:** Unity3D, C#, Spine
 
-**Target Platform:** Mobile
+**Target Platform:** Mobile & PC
 
 **Project description:**   This project was originally developed using Cocos2d and is now being ported to Unity3D, with
 a comprehensive upgrade in technology, graphics, animations, etc. I am responsible for the complete rewrite of the Unity portion.
@@ -48,6 +48,8 @@ a comprehensive upgrade in technology, graphics, animations, etc. I am responsib
 **My accomplishments:** Rewrite the gameplay, upgrade graphics and animations, patching, networking and other aspects.
 
 ### Codename K3 (2022-2024)
+
+![K3](k3.jpeg)
 
 [Developing Gameplay Video](https://youtu.be/QiUfZgKVIzk)
 
@@ -72,7 +74,7 @@ a comprehensive upgrade in technology, graphics, animations, etc. I am responsib
 
 ![visions of mana](visions-of-mana.jpg)
 
-[YouTube Video](https://youtu.be/9biJipMQ-9Y)
+[YouTube Video](https://youtu.be/9biJipMQ-9Y) | [Steam](https://store.steampowered.com/app/2490990/_Visions_of_Mana/)
 
 **Development Tools:** UE4, C++, Python, GAS
 
@@ -93,6 +95,8 @@ a comprehensive upgrade in technology, graphics, animations, etc. I am responsib
 ![onmyoji](onmyoji-the-card-game.jpg)
 
 [YouTube Video](https://youtu.be/8XSc2hGH3Ak)
+
+[App Store](https://apps.apple.com/us/app/onmyoji/id1257031979) | [Google Play](https://play.google.com/store/apps/details?id=com.netease.onmyoji.gb&hl=en_US) | [Steam](https://store.steampowered.com/app/551170/Onmyoji/)
 
 **Development Tools:** NeoX, C++, Python, Spine, CRIWARE Sofdec2, Cocos2d-x
 
