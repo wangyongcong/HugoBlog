@@ -47,13 +47,11 @@ a comprehensive upgrade in technology, graphics, animations, etc. I am responsib
 
 **My accomplishments:** Rewrite the gameplay, upgrade graphics and animations, patching, networking and other aspects.
 
-### Codename K3 (2022-2024)
+### Basketball Girls: AIM FOR THE SKY (2022-2024)
 
-![K3](k3.jpeg)
+![Basketball Girls](basketball-girls.jpg)
 
-[Developing Gameplay Video](https://youtu.be/QiUfZgKVIzk)
-
-[Developing Interactive Story](https://youtu.be/qHWQFnDGQrM)
+[Gameplay Video](https://youtu.be/j9fXoaww16U?si=5vAcnCpZ30Xd9TPS)
 
 **Development Tools:** Unity3D, C#, Lua, Live2D
 
