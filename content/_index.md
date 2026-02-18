@@ -1,36 +1,38 @@
 ---
 title: 
-date: "2024-05-4"
+date: "2024-05-04"
 ---
 
 ## Summary
 
-I'm a game programmer with over **15 years of experience** in the game industry. I had participated in the development of multiple commercial games across a variety of genres (**ACT, ARPG, CCG, SLG**) and platforms (**PC, iOS, Android**). Among them, 5 were successfully released and generated substantial profits, with 2 of them being under my leadership. I’m Proficient in game architect, gameplay development, character animation, game physics, GUI, networking, and tools development. I also have some experience in computer graphics, game server and database. 
+**Lead Gameplay / Multiplayer Engineer (Unity, Unreal, C++)**
 
-I’m Proficient in **Unity3D** and **Unreal Engine** game development. I had written in-house C++ engine code for years in game industry. I can handle almost everything of a game such as character controller, combat system, animations, physics, networking, GUI, tools, and more. I can also help with graphic code (but NOT AAA title graphic). 
+I'm a game programmer with over **15 years of experience** in the game industry. I have contributed to multiple commercial games across a variety of genres (**ACT, ARPG, CCG, SLG**) and platforms (**PC, iOS, Android**). Five of these titles were successfully released and generated substantial revenue, and I led development on two of them. I am proficient in game architecture, gameplay development, character animation, physics, GUI, networking, and tools development. I also have experience with computer graphics, game servers, and databases.
 
-I'm full of passion for games and technique. I'm not only a developer, but also a hardcore player. I spend thousands of hours in games such as Street Fighter 5, Elden Ring, Cyberpunk 2077, Baldur's Gate 3.
+I’m proficient in **Unity3D** and **Unreal Engine** development. I also contributed to in-house C++ engine development for years. I can handle almost every part of a game, including character controllers, combat systems, animation systems, physics, networking, GUI, and tools. I can also contribute to graphics programming (non-AAA rendering scope).
+
+I'm passionate about both games and technology. I'm not only a developer but also a hardcore player. I’ve spent thousands of hours in games such as Street Fighter 5, Elden Ring, Cyberpunk 2077, and Baldur's Gate 3.
 
 ## Skills
 - **Languages:** C++, C#, Python, Lua
 - **Engines:** Unity3D, Unreal Engine
-- **Tools:** Spine, Live2D, WWISE, CRIWARE Plugins, Bullet, Box2D, IMGUI, Cocos2d-x 
-- **Fields:** Gameplay, Combat System, Animations, Physics, Networking, GUI, Tools
+- **Tools:** Spine, Live2D, WWISE, CRIWARE Plugins, Bullet, Box2D, IMGUI, Cocos2d-x
+- **Fields:** Gameplay, Combat Systems, Animation Systems, Physics, Networking, GUI, Tools Development
 
 ## Career
-- [Supernova Games](https://www.gamesupernova.com/), Unity Engineer (2024-Present)
-- [LingXi Games of Alibaba Group](https://www.alibabagroup.com/en-US/about-alibaba-businesses-1496656377454526464), Senior Engineer (2022-2024) 
-- [NetEase Games](https://www.neteasegames.com/), Senior Engineer (2011-2022)  
-- YangYao Games, Game Engineer (2010-2011)  
-- Leeuu Games, Game Engineer (2006-2009)  
+- [Supernova Games](https://www.gamesupernova.com/), Unity Engineer (2024 - Present)
+- [LingXi Games of Alibaba Group](https://www.alibabagroup.com/en-US/about-alibaba-businesses-1496656377454526464), Senior Engineer (2022 - 2024)
+- [NetEase Games](https://www.neteasegames.com/), Senior Engineer (2011 - 2022)
+- YangYao Games, Game Engineer (2010 - 2011)
+- Leeuu Games, Game Engineer (2006 - 2009)
 
 ## Education
-- [XiAn University of Technology](https://www.xaut.edu.cn/), Bachelor of Materials Physics 
-- **Spoken Language:** Chinese/Cantonese (native), English (conversational)
+- [XiAn University of Technology](https://www.xaut.edu.cn/), Bachelor of Materials Physics
+- **Spoken Languages:** Chinese/Cantonese (native), English (conversational)
 
 ## Projects
 
-### Purr-fect Chef: Cats Can Cook (2024-Present)
+### Purr-fect Chef: Cats Can Cook (2024 - Present)
 
 ![Purr-fect-Chef](purr-fect-chef.jpg)
 
@@ -38,16 +40,20 @@ I'm full of passion for games and technique. I'm not only a developer, but also 
 
 **Development Tools:** Unity3D, C#, Spine
 
-**Target Platform:** Mobile & PC
+**Target Platform:** Mobile, PC
 
-**Project description:**   This project was originally developed using Cocos2d and is now being ported to Unity3D, with
-a comprehensive upgrade in technology, graphics, animations, etc. I am responsible for the complete rewrite of the Unity portion.
+**Project description:** A new-generation title in the Purr-fect Chef franchise, built in Unity to support modern live operations and cross-platform delivery.
 
 **My role:** Unity Engineer
 
-**My accomplishments:** Rewrite the gameplay, upgrade graphics and animations, patching, networking and other aspects.
+**My accomplishments:**
+1. Architected the entire game framework and core systems, creating a scalable foundation for long-term feature delivery.
+2. Designed and implemented the resource and script patching system, enabling faster live updates and hotfix workflows.
+3. Built an AI-integrated localization workflow, improving content delivery efficiency across languages.
+4. Built an AI-assisted content workflow for short stories and adventures, accelerating narrative iteration.
+5. Implemented the multiplayer framework, enabling online gameplay features.
 
-### Basketball Girls: AIM FOR THE SKY (2022-2024)
+### Basketball Girls: AIM FOR THE SKY (2022 - 2024)
 
 ![Basketball Girls](basketball-girls.jpg)
 
@@ -57,18 +63,17 @@ a comprehensive upgrade in technology, graphics, animations, etc. I am responsib
 
 **Target Platform:** Mobile
 
-**Project description:**  The project was originally found to replicate the success of *Uma Musume Pretty Derby*. Players manage a girls' basketball club in the game, explore the stories of the girls' basketball team. I joined the project at an early stage to help the team to build the story toolchain, character animation and physics. 
+**Project description:** The project was originally founded to replicate the success of *Uma Musume Pretty Derby*. In this game, players manage a girls' basketball club and explore team storylines. I joined early to help build the story toolchain, character animation pipeline, and physics systems.
 
-**My role:** Lead Gameplay / Story Engineer
+**My role:** Senior Engineer
 
 **My accomplishments:**
+1. Implemented the story toolchain, enabling writers and designers to author interactive story content efficiently.
+2. Worked with technical artists to bring cel-shaded 3D characters into story scenes, improving visual quality and consistency.
+3. Implemented the Lua GUI scripting framework, improving UI iteration speed.
+4. Extended Unity Timeline functionality, enabling more complex story flows and animation sequencing.
 
-1. Implemented the story toolchain.
-2. Worked with TA to bring the cartoon shading 3D characters to the story scene. 
-3. Implemented the Lua GUI scripting framework. 
-4. Extended the Unity timeline functionality for complex animations and story system. 
-
-### Visions of Mana (2020-2022)
+### Visions of Mana (2020 - 2022)
 
 ![visions of mana](visions-of-mana.jpg)
 
@@ -78,17 +83,16 @@ a comprehensive upgrade in technology, graphics, animations, etc. I am responsib
 
 **Target Platform:** PC, PS4/5, Xbox
 
-**Project description:**  NetEase Sakura Studio collaborated with Square-Enix to develop the game and undertook the development work. During this period, I worked at the studio and involved in the development of the game.
+**Project description:** NetEase Sakura Studio collaborated with Square Enix on this title and undertook major development responsibilities. My primary focus was studio-wide technical infrastructure that supported all projects.
 
 **My role:** Lead Multiplayer Engineer
 
 **My accomplishments:**
+1. Maintained the Unreal Python binding plugin and ported the Python runtime to PS4/5, enabling scripting workflows on console targets.
+2. Developed multiple experimental multiplayer gameplay prototypes, enabling rapid mode validation.
+3. Led a team to build a generic networked combat system, creating reusable infrastructure for multiplayer projects.
 
-1. Maintained the Unreal Python binding plugin which was used for gameplay scripting. Ported the Python runtime to PS4/5.
-2. Developed several experimental multiplayer gameplay prototypes.
-3. Led a team to develop a generic networked combat system.
-
-### Onmyoji  The  Card  Game (2018-2020)
+### Onmyoji The Card Game (2018 - 2020)
 
 ![onmyoji](onmyoji-the-card-game.jpg)
 
@@ -100,17 +104,17 @@ a comprehensive upgrade in technology, graphics, animations, etc. I am responsib
 
 **Target Platform:** Mobile
 
-**Project description:** The game was released on iOS/Android/Steam. It’s a card game like MTG. Players purchase packs to collect cards, and then engage in online battles with other players.
+**Project description:** Released on iOS, Android, and Steam, this is a strategy card game similar to MTG. Players collect cards by opening packs and battle each other online.
 
 **My role:** Lead Client Engineer
 
 **My accomplishments:**
+1. Architected the client framework, enabling stable long-term feature development.
+2. Implemented card and battlefield visual effects, improving gameplay presentation quality.
+3. Implemented the story system as a runtime implementation of Kirikiri/KAG3 scripts, enabling flexible narrative content authoring.
+4. Implemented the battle recording and playback system, enabling replay and debugging workflows.
 
-1. Implemented the graphic effect of the cards and battlefield. 
-2. Implemented the story system which was a runtime implementation of Kirikiri / KAG3 script (a markdown language for writing visual novels)
-3. Implemented the battle recording and playback system.
-
-### Soul and Machine (2016-2018)
+### Soul and Machine (2016 - 2018)
 
 ![code name M](soul-and-machine.jpg)
 
@@ -120,18 +124,17 @@ a comprehensive upgrade in technology, graphics, animations, etc. I am responsib
 
 **Target Platform:** Mobile
 
-**Project description:** 3D side scrolling action MOBA game. Support 4 vs 4 team fighting. The game was interrupted after twice iOS test flight. 
+**Project description:** A 3D side-scrolling action MOBA with 4v4 team battles. The project was discontinued after two iOS TestFlight rounds.
 
 **My role:** Lead Engineer
 
-**My accomplishments:** 
+**My accomplishments:**
+1. Built deterministic lockstep synchronization, enabling authoritative multiplayer consistency.
+2. Built a networked combat system, supporting real-time competitive gameplay.
+3. Designed an ECS game architecture, improving modularity and maintainability.
+4. Led development of character action and level editors, improving content production efficiency.
 
-1. Deterministic lockstep synchronization. 
-2. Networked combat system. 
-3. ECS game architecture. 
-4. Led the development of character action editor and level editor.
-
-### The Phantom Soul (2014-2016)
+### The Phantom Soul (2014 - 2016)
 
 ![the phantom soul](the-phantom-soul.jpg)
 
@@ -141,19 +144,18 @@ a comprehensive upgrade in technology, graphics, animations, etc. I am responsib
 
 **Target Platform:** Mobile
 
-**Project description:** 3D Side scrolling multiplayer ARPG.  Challenge dungeons with a team of maximum 4 players or engaging in 1 vs 1 PVP battle. The game was released on iOS/Android.
+**Project description:** A 3D side-scrolling multiplayer ARPG. Players could challenge dungeons in teams of up to four or engage in 1v1 PvP. The game was released on iOS and Android.
 
 **My role:** Lead Engineer
 
-**My accomplishments:** 
+**My accomplishments:**
+1. Led the programming team to deliver the game, ensuring end-to-end technical execution.
+2. Designed and implemented the game architecture, supporting core gameplay and online systems.
+3. Implemented the character controller, combat system, and companion editor, enabling scalable gameplay development.
+4. Implemented the state synchronization mechanism, improving multiplayer reliability.
+5. Implemented gameplay features such as behavior-tree-driven AI and special skill effects, expanding combat depth.
 
-1.	Led the programmer team to accomplish the development of the game.
-2.	Designed and constructed the game architecture.
-3.	Implemented the character controller, the fighting system, and the companion character editor.
-4.	Implemented the state synchronization mechanism.
-5.	Implemented various gameplay features, such as AI driven by behavior tree, special skill effects, etc.
-
-### Chronicles of Crystal (2012-2014)
+### Chronicles of Crystal (2012 - 2014)
 
 ![chronicles of crystal](chronicles-of-crystal.jpg)
 
@@ -163,18 +165,17 @@ a comprehensive upgrade in technology, graphics, animations, etc. I am responsib
 
 **Target Platform:** PC
 
-**Project description:** A side scrolling multiplayer action game released on NetEase casual game platform  iTown (PC). It supported 4-player team to challenge dungeons.
+**Project description:** A side-scrolling multiplayer action game released on NetEase's iTown PC platform. It supported four-player co-op dungeon runs.
 
 **My role:** Gameplay / Multiplayer Engineer
 
-**My accomplishments:** 
+**My accomplishments:**
+1. Built the networked combat system, enabling online co-op gameplay.
+2. Built the collision detection system, improving gameplay stability.
+3. Built the AOI (area of interest) system, optimizing network performance.
+4. Built the level editor, improving production speed for content teams.
 
-1. Networked combat system.
-2. Collision detection system.
-3. AOI (area of interest) system.
-4. Level editor.
-
-### Windy Island (2011-2012)
+### Windy Island (2011 - 2012)
 
 ![windy island](windy-island.jpg)
 
@@ -184,15 +185,14 @@ a comprehensive upgrade in technology, graphics, animations, etc. I am responsib
 
 **Target Platform:** PC
 
-**Project description:** The game was a side scrolling multiplayer racing game. Maximum 4 players raced in the scene like Super Mario, attacked each other using various items picked on the path. The game was released on NetEase casual game platform iTown (PC)
+**Project description:** A side-scrolling multiplayer racing game. Up to four players raced in stages similar to Super Mario and attacked each other using items collected along the way. The game was released on NetEase's iTown PC platform.
 
 **My role:** Gameplay / Multiplayer / Tool Engineer
 
-**My accomplishments:** 
-
-1. Gameplay features
-2. Level editor
-3. Character synchronization
+**My accomplishments:**
+1. Implemented gameplay features, expanding core race-combat interactions.
+2. Built the level editor, improving stage iteration speed.
+3. Implemented character synchronization, enabling stable multiplayer races.
 
 ### Romantic Country (2008)
 
@@ -204,11 +204,12 @@ a comprehensive upgrade in technology, graphics, animations, etc. I am responsib
 
 **Target Platform:** PC
 
-**Project description:** Multiplayer simulation game released on PC in 2008. Like Harvest Moon, players manage their own farms by planting corps and fruit trees, raising livestock, creating machinery, building house and dressed it with furniture. Players can visit each other’s farm or meet in the town. 
-There was an in-game design tool for players to customize their house. 
-The game offered a high degree of freedom and gained very good feedback.
+**Project description:** A multiplayer simulation game released on PC in 2008. Similar to Harvest Moon, players managed farms by planting crops and fruit trees, raising livestock, creating machinery, building houses, and decorating them with furniture. Players could visit each other's farms or meet in town.
+
+The game included an in-game design tool that let players customize their houses.
+
+The game offered a high degree of freedom and received strong player feedback.
 
 **My role:** Gameplay Programmer
 
-**My accomplishments:** Gameplay features
-
+**My accomplishments:** Implemented core gameplay features.
