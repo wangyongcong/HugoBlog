@@ -25,7 +25,7 @@ Guidance for agents working in this Hugo portfolio repository.
 - `themes/alageek/static/css/main.css`: primary dark theme styling.
 - `themes/alageek/static/css/highlight.css`: syntax highlighting theme import.
 - `deploy.bat`: Windows deployment helper that copies generated output from `destination` to `C:\projects\wangyongcong.github.io`.
-- `.github/workflows/pages.yml`: GitHub Pages deployment workflow. It installs Hugo `0.160.1`, builds to `public/`, uploads the Pages artifact, and deploys from this source repository.
+- `.github/workflows/pages.yml`: GitHub Pages deployment workflow. It installs Hugo `0.161.0`, builds to `public/`, uploads the Pages artifact, and deploys from this source repository.
 
 ## Local Commands
 
@@ -41,7 +41,7 @@ Guidance for agents working in this Hugo portfolio repository.
   hugo -d destination
   ```
 
-- GitHub Pages publishing is handled by `.github/workflows/pages.yml` on pushes to `main` and manual `workflow_dispatch` runs. The workflow is pinned to Hugo `0.160.1`.
+- GitHub Pages publishing is handled by `.github/workflows/pages.yml` on pushes to `main` and manual `workflow_dispatch` runs. The workflow is pinned to Hugo `0.161.0`.
 
 - A stricter local check used while editing:
 

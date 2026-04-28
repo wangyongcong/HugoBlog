@@ -1,9 +1,9 @@
 author = "ycwang"
 baseURL = "https://www.ycwang.me/"
-languageCode = "zh-cn"
+locale = "en-US"
 copyright = "Copyright © 2020–2021, ycwang all rights reserved."
 paginate = 8
-title = "Yongcong Wang"
+title = "Colin Wang"
 theme = "alageek"
 
 [params]
@@ -33,6 +33,12 @@ identifier = "CN"
 name = "中文"
 url = "/CN/"
 weight = 20
+
+[[menu.primary]]
+identifier = "contact"
+name = "Contact"
+url = "https://calendar.app.google/Dyq1z3ZJHLam972n6"
+weight = 30
 
 [[menu.footer]]
 identifier = "tags"
