@@ -94,7 +94,7 @@ I'm passionate about both games and technology. I'm not only a developer but als
 
 ### Onmyoji The Card Game (2018 - 2020)
 
-![onmyoji](onmyoji-the-card-game.jpg)
+![onmyoji-the-card-game](onmyoji-the-card-game.jpg)
 
 [YouTube Video](https://youtu.be/8XSc2hGH3Ak)
 

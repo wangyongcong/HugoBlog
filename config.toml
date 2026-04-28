@@ -1,10 +1,26 @@
 author = "ycwang"
 baseURL = "https://www.ycwang.me/"
-locale = "en-US"
 copyright = "Copyright © 2020–2021, ycwang all rights reserved."
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
 paginate = 8
 title = "Colin Wang"
 theme = "alageek"
+
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    label = "English"
+    locale = "en-US"
+    title = "Colin Wang"
+    weight = 1
+
+  [languages.zh-cn]
+    contentDir = "content/zh-cn"
+    label = "中文"
+    locale = "zh-CN"
+    title = "Colin Wang"
+    weight = 2
 
 [params]
 copyright = "© 2021 by ycwang"
@@ -21,18 +37,6 @@ progressively = true
 mastodon_url = "https://mastodon.gamedev.place/@ycwang"
 github = "wangyongcong"
 email = "wangyongcong@gmail.com"
-
-[[menu.primary]]
-identifier = "EN"
-name = "English"
-url = "/"
-weight = 10
-
-[[menu.primary]]
-identifier = "CN"
-name = "中文"
-url = "/CN/"
-weight = 20
 
 [[menu.primary]]
 identifier = "contact"

@@ -5,18 +5,20 @@ Guidance for agents working in this Hugo portfolio repository.
 ## Project Shape
 
 - This is a Hugo static site for a personal portfolio, not a multi-page blog in current use.
-- The live English portfolio content is in `content/_index.md`.
-- The Chinese portfolio content is in `content/CN/index.md`.
-- Portfolio images for the English homepage are stored directly under `content/`.
-- Chinese page-bundle images are stored under `content/CN/` and `content/CN/index/`.
+- The site uses Hugo multilingual mode with English as the default language.
+- The live English portfolio content is in `content/en/_index.md`.
+- The Chinese portfolio content is in `content/zh-cn/_index.md`.
+- Portfolio images for the English homepage are stored under `content/en/`.
+- Chinese page-bundle images are stored under `content/zh-cn/` and `content/zh-cn/index/`.
 - The site uses the bundled theme at `themes/alageek`; this repo intentionally modifies that theme in place.
 - Static root assets live in `static/`, including `static/CNAME`, `static/img/`, `static/css/lightbox.min.css`, and `static/js/lightbox.min.js`.
 
 ## Important Files
 
 - `config.toml`: site metadata, menus, theme name, social links, logo path, and Hugo params.
-- `content/_index.md`: the main English one-page portfolio.
-- `content/CN/index.md`: Chinese portfolio page, with `gallery: true` for lightbox behavior.
+- `content/en/_index.md`: the main English one-page portfolio.
+- `content/zh-cn/_index.md`: Chinese portfolio page, with `gallery: true` for lightbox behavior.
+- `static/CN/index.html`: compatibility redirect from the old `/CN/` URL to `/zh-cn/`.
 - `themes/alageek/layouts/index.html`: homepage layout. It renders the Markdown content first, then optional pinned/latest blog sections.
 - `themes/alageek/layouts/partials/header.html`: header markup plus conditional Mermaid and lightbox asset loading.
 - `themes/alageek/layouts/partials/content.html`: theme content rendering and progressive-image replacement logic.
@@ -53,9 +55,9 @@ Guidance for agents working in this Hugo portfolio repository.
 
 ## Content Conventions
 
-- Keep portfolio content in Markdown. Prefer editing `content/_index.md` and associated images before changing layouts.
+- Keep portfolio content in Markdown. Prefer editing `content/en/_index.md`, `content/zh-cn/_index.md`, and associated images before changing layouts.
 - Use page-bundle-relative image paths when content is in a bundle, for example `![alt](image.jpg)`.
-- The English homepage currently references images beside `content/_index.md`, for example `![Purr-fect-Chef](purr-fect-chef.jpg)`.
+- The English homepage currently references images beside `content/en/_index.md`, for example `![Purr-fect-Chef](purr-fect-chef.jpg)`.
 - The Chinese page uses gallery/lightbox support, so keep `gallery: true` when image lightbox behavior is required.
 - The image render hook detects image sets from the Markdown alt text and page resources. If multiple matching resources exist, it renders a lightbox gallery and uses `*-small.*` files as thumbnails when present.
 - Keep portfolio copy professional, concise, and resume-like. Preserve the existing section order unless the user asks for a redesign.
@@ -64,7 +66,7 @@ Guidance for agents working in this Hugo portfolio repository.
 
 - The theme has been customized to force a dark palette in `themes/alageek/static/css/main.css`; do not reintroduce system light/dark switching without explicit user direction.
 - Header logo comes from `params.logofile` in `config.toml` and currently points to `/img/logo3.png`.
-- Header language links are configured through `[[menu.primary]]` in `config.toml` rather than Hugo multilingual configuration.
+- Header language switching uses Hugo multilingual translations via `.Translations`; do not re-add manual English/Chinese links to `[[menu.primary]]`.
 - Avoid broad theme rewrites for content-only requests. This portfolio is intentionally simple and content-led.
 - If adding JavaScript or CSS, prefer static assets under `static/` and conditional loading through Hugo params/front matter when the feature is page-specific.
 
