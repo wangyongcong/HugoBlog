@@ -37,6 +37,7 @@ progressively = true
 mastodon_url = "https://mastodon.gamedev.place/@ycwang"
 github = "wangyongcong"
 email = "wangyongcong@gmail.com"
+twitter = "@wangyongcong"
 
 [[menu.primary]]
 identifier = "contact"
