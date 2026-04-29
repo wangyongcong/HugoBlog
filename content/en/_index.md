@@ -96,7 +96,7 @@ I'm passionate about both games and technology. I'm not only a developer but als
 
 ![onmyoji-the-card-game](onmyoji-the-card-game.jpg)
 
-[YouTube Video](https://youtu.be/8XSc2hGH3Ak)
+[Gameplay Video](https://youtu.be/8XSc2hGH3Ak) | [Narrative Video](https://youtu.be/TiPahqEEc9Q)
 
 [App Store](https://apps.apple.com/us/app/onmyoji/id1257031979) | [Google Play](https://play.google.com/store/apps/details?id=com.netease.onmyoji.gb&hl=en_US) | [Steam](https://store.steampowered.com/app/551170/Onmyoji/)
 
