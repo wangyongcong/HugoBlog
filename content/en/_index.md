@@ -7,17 +7,17 @@ date: "2024-05-04"
 
 **Lead Gameplay / Multiplayer Engineer (Unity, Unreal, C++)**
 
-I'm a game programmer with over **15 years of experience** in the game industry. I have contributed to multiple commercial games across a variety of genres (**ACT, ARPG, CCG, SLG**) and platforms (**PC, iOS, Android**). Five of these titles were successfully released and generated substantial revenue, and I led development on two of them. I am proficient in game architecture, gameplay development, character animation, physics, GUI, networking, and tools development. I also have experience with computer graphics, game servers, and databases.
+Lead Gameplay and Multiplayer Engineer with over **15 years of experience** developing commercial games across **ACT, ARPG, CCG, and SLG** genres for **PC, mobile (iOS and Android), and console (PlayStation and Xbox)**. I have contributed to multiple shipped commercial titles and have led engineering across major projects from architecture through delivery.
 
-I’m proficient in **Unity3D** and **Unreal Engine** development. I also contributed to in-house C++ engine development for years. I can handle almost every part of a game, including character controllers, combat systems, animation systems, physics, networking, GUI, and tools. I can also contribute to graphics programming (non-AAA rendering scope).
+I specialize in game architecture, gameplay systems, combat, animation, physics, networking, UI, tools, and live-update infrastructure. I am highly experienced with **Unity**, **Unreal Engine**, and proprietary C++ engines, and I can also contribute to graphics programming for gameplay and production needs.
 
-I'm passionate about both games and technology. I'm not only a developer but also a hardcore player. I’ve spent thousands of hours in games such as Street Fighter 5, Elden Ring, Cyberpunk 2077, and Baldur's Gate 3.
+I am passionate about games both as a developer and as a player. Having spent thousands of hours with titles such as Street Fighter 5, Elden Ring, Cyberpunk 2077, and Baldur's Gate 3, I have a strong sense of what makes games feel engaging, polished, and rewarding, and I bring that perspective into development decisions.
 
 ## Skills
 - **Languages:** C++, C#, Python, Lua
-- **Engines:** Unity3D, Unreal Engine
-- **Tools:** Spine, Live2D, WWISE, CRIWARE Plugins, Bullet, Box2D, IMGUI, Cocos2d-x
-- **Fields:** Gameplay, Combat Systems, Animation Systems, Physics, Networking, GUI, Tools Development
+- **Engines:** Unity, Unreal Engine, NeoX / proprietary C++ engines
+- **Specialties:** Gameplay, Combat Systems, Animation Systems, Physics, Multiplayer Networking, UI, Tools Development, Live Update Systems
+- **Middleware / Libraries:** Spine, Live2D, Wwise, CRIWARE, Bullet, Box2D, IMGUI, Cocos2d-x
 
 ## Career
 - [Supernova Games](https://www.gamesupernova.com/), Unity Engineer (2024 - Present)
@@ -28,7 +28,7 @@ I'm passionate about both games and technology. I'm not only a developer but als
 
 ## Education
 - [XiAn University of Technology](https://www.xaut.edu.cn/), Bachelor of Materials Physics
-- **Spoken Languages:** Chinese/Cantonese (native), English (conversational)
+- **Languages:** Chinese/Cantonese (native), English (conversational)
 
 ## Projects
 
@@ -42,15 +42,15 @@ I'm passionate about both games and technology. I'm not only a developer but als
 
 **Target Platform:** Mobile, PC
 
-**Project description:** A new-generation title in the Purr-fect Chef franchise, built in Unity to support modern live operations and cross-platform delivery.
+**Project description:** A new title in the Purr-fect Chef franchise, built in Unity for live operations and cross-platform delivery.
 
 **My role:** Unity Engineer
 
 **My accomplishments:**
-1. Architected the entire game framework and core systems, creating a scalable foundation for long-term feature delivery.
+1. Architected the game framework and core systems, establishing a scalable foundation for long-term feature development.
 2. Designed and implemented the resource and script patching system, enabling faster live updates and hotfix workflows.
-3. Built an AI-integrated localization workflow, improving content delivery efficiency across languages.
-4. Built an AI-assisted content workflow for short stories and adventures, accelerating narrative iteration.
+3. Created an AI-integrated localization workflow, improving multilingual content delivery efficiency.
+4. Created an AI-assisted content workflow for short stories and adventures, accelerating narrative iteration.
 5. Implemented the multiplayer framework, enabling online gameplay features.
 
 ### Basketball Girls: AIM FOR THE SKY (2022 - 2024)
@@ -63,14 +63,14 @@ I'm passionate about both games and technology. I'm not only a developer but als
 
 **Target Platform:** Mobile
 
-**Project description:** The project was originally founded to replicate the success of *Uma Musume Pretty Derby*. In this game, players manage a girls' basketball club and explore team storylines. I joined early to help build the story toolchain, character animation pipeline, and physics systems.
+**Project description:** A mobile character-management game inspired by *Uma Musume Pretty Derby*, where players manage a girls' basketball club and explore team storylines. I joined early to help build the story toolchain, character animation pipeline, and physics systems.
 
 **My role:** Senior Engineer
 
 **My accomplishments:**
-1. Implemented the story toolchain, enabling writers and designers to author interactive story content efficiently.
-2. Worked with technical artists to bring cel-shaded 3D characters into story scenes, improving visual quality and consistency.
-3. Implemented the Lua GUI scripting framework, improving UI iteration speed.
+1. Developed the story toolchain, enabling writers and designers to author interactive story content efficiently.
+2. Collaborated with technical artists to integrate cel-shaded 3D characters into story scenes, improving visual quality and consistency.
+3. Built the Lua UI scripting framework, improving UI iteration speed.
 4. Extended Unity Timeline functionality, enabling more complex story flows and animation sequencing.
 
 ### Visions of Mana (2020 - 2022)
@@ -83,14 +83,14 @@ I'm passionate about both games and technology. I'm not only a developer but als
 
 **Target Platform:** PC, PS4/5, Xbox
 
-**Project description:** NetEase Sakura Studio collaborated with Square Enix on this title and undertook major development responsibilities. My primary focus was studio-wide technical infrastructure that supported all projects.
+**Project description:** A major entry in Square Enix's long-running Mana series, shipped on Steam, PS4/5, and Xbox. NetEase Sakura Studio collaborated with Square Enix on development, and my primary focus was studio-wide Unreal Engine infrastructure and multiplayer R&D.
 
 **My role:** Lead Multiplayer Engineer
 
 **My accomplishments:**
 1. Maintained the Unreal Python binding plugin and ported the Python runtime to PS4/5, enabling scripting workflows on console targets.
-2. Developed multiple experimental multiplayer gameplay prototypes, enabling rapid mode validation.
-3. Led a team to build a generic networked combat system, creating reusable infrastructure for multiplayer projects.
+2. Developed multiple experimental multiplayer gameplay prototypes, supporting rapid mode validation.
+3. Led a small engineering team to design and build a generic networked combat system, creating reusable multiplayer infrastructure for future projects.
 
 ### Onmyoji The Card Game (2018 - 2020)
 
@@ -98,21 +98,20 @@ I'm passionate about both games and technology. I'm not only a developer but als
 
 [Gameplay Video](https://youtu.be/8XSc2hGH3Ak) | [Narrative Video](https://youtu.be/TiPahqEEc9Q)
 
-[App Store](https://apps.apple.com/us/app/onmyoji/id1257031979) | [Google Play](https://play.google.com/store/apps/details?id=com.netease.onmyoji.gb&hl=en_US) | [Steam](https://store.steampowered.com/app/551170/Onmyoji/)
-
 **Development Tools:** NeoX, C++, Python, Spine, CRIWARE Sofdec2, Cocos2d-x
 
 **Target Platform:** Mobile
 
-**Project description:** Released on iOS, Android, and Steam, this is a strategy card game similar to MTG. Players collect cards by opening packs and battle each other online.
+**Project description:** A strategy card game similar to MTG. Launched on December 12, 2019, the game has remained live for more than six years, with players collecting cards through packs and battling each other online.
 
 **My role:** Lead Client Engineer
 
 **My accomplishments:**
-1. Architected the client framework, enabling stable long-term feature development.
-2. Implemented card and battlefield visual effects, improving gameplay presentation quality.
-3. Implemented the story system as a runtime implementation of Kirikiri/KAG3 scripts, enabling flexible narrative content authoring.
-4. Implemented the battle recording and playback system, enabling replay and debugging workflows.
+1. Led client-side technical planning and architecture, coordinating core systems, UI, story, battle presentation, and replay workflows.
+2. Architected the client framework, enabling stable long-term feature development.
+3. Developed card and battlefield visual effects, improving gameplay presentation quality.
+4. Built the story system as a runtime implementation of Kirikiri/KAG3 scripts, enabling flexible narrative content authoring.
+5. Developed the battle recording and playback system, enabling replay and debugging workflows.
 
 ### Soul and Machine (2016 - 2018)
 
@@ -129,10 +128,11 @@ I'm passionate about both games and technology. I'm not only a developer but als
 **My role:** Lead Engineer
 
 **My accomplishments:**
-1. Built deterministic lockstep synchronization, enabling authoritative multiplayer consistency.
-2. Built a networked combat system, supporting real-time competitive gameplay.
-3. Designed an ECS game architecture, improving modularity and maintainability.
-4. Led development of character action and level editors, improving content production efficiency.
+1. Led overall client engineering across gameplay, networking, tools, and architecture during prototype and TestFlight development.
+2. Built deterministic lockstep synchronization, enabling authoritative multiplayer consistency.
+3. Developed a networked combat system, supporting real-time competitive gameplay.
+4. Designed an ECS game architecture, improving modularity and maintainability.
+5. Led development of character action and level editors, improving content production efficiency.
 
 ### The Phantom Soul (2014 - 2016)
 
@@ -149,11 +149,11 @@ I'm passionate about both games and technology. I'm not only a developer but als
 **My role:** Lead Engineer
 
 **My accomplishments:**
-1. Led the programming team to deliver the game, ensuring end-to-end technical execution.
+1. Led the programming team from core development through launch, coordinating gameplay, online systems, tools, and production support.
 2. Designed and implemented the game architecture, supporting core gameplay and online systems.
-3. Implemented the character controller, combat system, and companion editor, enabling scalable gameplay development.
+3. Developed the character controller, combat system, and companion editor, enabling scalable gameplay development.
 4. Implemented the state synchronization mechanism, improving multiplayer reliability.
-5. Implemented gameplay features such as behavior-tree-driven AI and special skill effects, expanding combat depth.
+5. Developed gameplay features such as behavior-tree-driven AI and special skill effects, expanding combat depth.
 
 ### Chronicles of Crystal (2012 - 2014)
 
@@ -170,10 +170,10 @@ I'm passionate about both games and technology. I'm not only a developer but als
 **My role:** Gameplay / Multiplayer Engineer
 
 **My accomplishments:**
-1. Built the networked combat system, enabling online co-op gameplay.
+1. Developed the networked combat system, enabling online co-op gameplay.
 2. Built the collision detection system, improving gameplay stability.
 3. Built the AOI (area of interest) system, optimizing network performance.
-4. Built the level editor, improving production speed for content teams.
+4. Created the level editor, improving production speed for content teams.
 
 ### Windy Island (2011 - 2012)
 
@@ -190,7 +190,7 @@ I'm passionate about both games and technology. I'm not only a developer but als
 **My role:** Gameplay / Multiplayer / Tool Engineer
 
 **My accomplishments:**
-1. Implemented gameplay features, expanding core race-combat interactions.
+1. Developed gameplay features, expanding core race-combat interactions.
 2. Built the level editor, improving stage iteration speed.
 3. Implemented character synchronization, enabling stable multiplayer races.
 
@@ -204,12 +204,8 @@ I'm passionate about both games and technology. I'm not only a developer but als
 
 **Target Platform:** PC
 
-**Project description:** A multiplayer simulation game released on PC in 2008. Similar to Harvest Moon, players managed farms by planting crops and fruit trees, raising livestock, creating machinery, building houses, and decorating them with furniture. Players could visit each other's farms or meet in town.
-
-The game included an in-game design tool that let players customize their houses.
-
-The game offered a high degree of freedom and received strong player feedback.
+**Project description:** An innovative multiplayer simulation game released on PC in 2008 and operated for about 10 years. The game centered on user-generated content, allowing players to design homes, farms, and clothing and share their creations with the community. These systems created a high degree of player freedom and helped sustain long-term engagement.
 
 **My role:** Gameplay Programmer
 
-**My accomplishments:** Implemented core gameplay features.
+**My accomplishments:** Developed core gameplay features and contributed to the in-game house design tool.
