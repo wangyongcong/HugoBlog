@@ -14,12 +14,12 @@
     <!-- 图像列表 -->
     {{ with $imagelist }}
         <!-- 调整左边距与当前的 theme 一致 -->
-        <div style="margin-left: 1.5rem">
+        <div class="portfolio-image-gallery">
         {{ range . }}
             <!-- 缩略图的路径 "image.jpg" -> "image-small.jpg" -->
             {{if not (in . "-small.")}}
                 {{ $thumb := $pageres.GetMatch (replace . "." "-small.")}}
-                <a href="{{ .Permalink }}" data-lightbox="{{$imageset}}"><img src="{{if $thumb}}{{$thumb}}{{else}}{{.Permalink}}{{end}}" /></a>
+                <a href="{{ .Permalink }}" data-lightbox="{{$imageset}}"><img src="{{if $thumb}}{{$thumb}}{{else}}{{.Permalink}}{{end}}" alt="{{$imageset}}" /></a>
             {{end}}
         {{ end }}
         </div>

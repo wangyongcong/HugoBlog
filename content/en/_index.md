@@ -1,6 +1,7 @@
 ---
 title: 
 date: "2024-05-04"
+gallery: true
 ---
 
 ## Summary
@@ -34,7 +35,7 @@ I am passionate about games both as a developer and as a player. Having spent th
 
 ### Purr-fect Chef: Cats Can Cook (2024 - Present)
 
-![Purr-fect-Chef](purr-fect-chef.jpg)
+![purr-fect-chef-](purr-fect-chef-01.png)
 
 [App Store](https://apps.apple.com/us/app/purr-fect-chef-cats-can-cook/id1603186963) | [Google Play](https://play.google.com/store/apps/details?id=com.gameplus.teaapp&hl=en_US) | [Steam](https://store.steampowered.com/app/3510590/)
 
@@ -55,9 +56,9 @@ I am passionate about games both as a developer and as a player. Having spent th
 
 ### Basketball Girls: AIM FOR THE SKY (2022 - 2024)
 
-![Basketball Girls](basketball-girls.jpg)
+![basketball-girls-](basketball-girls-01.jpg)
 
-[Gameplay Video](https://youtu.be/j9fXoaww16U?si=5vAcnCpZ30Xd9TPS)
+[Gameplay Video](https://www.youtube.com/watch?v=gb1K52Zx5ok)
 
 **Development Tools:** Unity3D, C#, Lua, Live2D
 
@@ -75,13 +76,13 @@ I am passionate about games both as a developer and as a player. Having spent th
 
 ### Visions of Mana (2020 - 2022)
 
-![visions of mana](visions-of-mana.jpg)
+![Visions-of-Mana-](Visions-of-Mana-01.jpg)
 
 [YouTube Video](https://youtu.be/9biJipMQ-9Y) | [Steam](https://store.steampowered.com/app/2490990/_Visions_of_Mana/)
 
 **Development Tools:** UE4, C++, Python, GAS
 
-**Target Platform:** PC, PS4/5, Xbox
+**Target Platform:** PC, PS5, Xbox
 
 **Project description:** A major entry in Square Enix's long-running Mana series, shipped on Steam, PS4/5, and Xbox. NetEase Sakura Studio collaborated with Square Enix on development, and my primary focus was studio-wide Unreal Engine infrastructure and multiplayer R&D.
 
@@ -94,7 +95,7 @@ I am passionate about games both as a developer and as a player. Having spent th
 
 ### Onmyoji The Card Game (2018 - 2020)
 
-![onmyoji-the-card-game](onmyoji-the-card-game.jpg)
+![onmyoji-the-card-game-](onmyoji-the-card-game-01.jpg)
 
 [Gameplay Video](https://youtu.be/8XSc2hGH3Ak) | [Narrative Video](https://youtu.be/TiPahqEEc9Q)
 
@@ -115,7 +116,7 @@ I am passionate about games both as a developer and as a player. Having spent th
 
 ### Soul and Machine (2016 - 2018)
 
-![code name M](soul-and-machine.jpg)
+![soul-and-machine-](soul-and-machine-01.jpg)
 
 [YouTube Video](https://youtu.be/wGAwF4LlvWY)
 
@@ -136,7 +137,7 @@ I am passionate about games both as a developer and as a player. Having spent th
 
 ### The Phantom Soul (2014 - 2016)
 
-![the phantom soul](the-phantom-soul.jpg)
+![the-phantom-soul-](the-phantom-soul-01.jpg)
 
 [YouTube Video](https://youtu.be/mKkVkG_UrrY)
 
@@ -157,7 +158,7 @@ I am passionate about games both as a developer and as a player. Having spent th
 
 ### Chronicles of Crystal (2012 - 2014)
 
-![chronicles of crystal](chronicles-of-crystal.jpg)
+![chronicles-of-crystal-](chronicles-of-crystal-01.jpg)
 
 [YouTube Video](https://youtu.be/dE_K94Xy76E)
 
@@ -177,7 +178,7 @@ I am passionate about games both as a developer and as a player. Having spent th
 
 ### Windy Island (2011 - 2012)
 
-![windy island](windy-island.jpg)
+![windy-island-](windy-island-01.jpg)
 
 [YouTube Video](https://youtu.be/WnF3DK0E0WM)
 
@@ -196,7 +197,7 @@ I am passionate about games both as a developer and as a player. Having spent th
 
 ### Romantic Country (2008)
 
-![romantic country](romantic-country.jpg)
+![romantic-country-](romantic-country-01.jpg)
 
 [YouTube Video](https://youtu.be/GPf5Xa5EeUw)
 
