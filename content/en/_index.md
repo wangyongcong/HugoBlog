@@ -40,11 +40,11 @@ I am passionate about games both as a developer and as a player. Having spent th
 
 **Development Tools:** Unity3D, C#, Spine
 
-**Target Platform:** Mobile, PC
+**Target Platform:** Mobile, PC, WebGL (Reddit)
 
 **Project description:** A new title in the Purr-fect Chef franchise, built in Unity for live operations and cross-platform delivery.
 
-**My role:** Unity Engineer
+**My role:** Senior Engineer
 
 **My accomplishments:**
 1. Architected the game framework and core systems, establishing a scalable foundation for long-term feature development.
