@@ -1,212 +1,259 @@
 ---
-title: 
+title:
 date: "2024-05-04"
 gallery: true
 ---
 
-## Summary
+## About Me
 
-**Lead Gameplay / Multiplayer Engineer (Unity, Unreal, C++)**
+**Senior Game Engineer — Gameplay, Multiplayer, Unity, Unreal, C++**
 
-Lead Gameplay and Multiplayer Engineer with over **15 years of experience** developing commercial games across **ACT, ARPG, CCG, and SLG** genres for **PC, mobile (iOS and Android), and console (PlayStation and Xbox)**. I have contributed to multiple shipped commercial titles and have led engineering across major projects from architecture through delivery.
+I am a game engineer with over **15 years of professional experience** building commercial games for **PC, mobile, Web, and console**. My background spans action games, ARPGs, CCGs, simulation games, and live-service titles, with experience taking projects from early architecture and prototyping through launch and long-term operation.
 
-I specialize in game architecture, gameplay systems, combat, animation, physics, networking, UI, tools, and live-update infrastructure. I am highly experienced with **Unity**, **Unreal Engine**, and proprietary C++ engines, and I can also contribute to graphics programming for gameplay and production needs.
+My strongest areas are **gameplay and combat systems, multiplayer networking, game architecture, AI, development tools, and production pipelines**. I work primarily with **C++, C#, Python, Unity, Unreal Engine, and proprietary C++ engines**.
 
-I am passionate about games both as a developer and as a player. Having spent thousands of hours with titles such as Street Fighter 5, Elden Ring, Cyberpunk 2077, and Baldur's Gate 3, I have a strong sense of what makes games feel engaging, polished, and rewarding, and I bring that perspective into development decisions.
+I have repeatedly joined projects at an early stage, built the technical foundation from scratch, and then helped grow the engineering effort around it. I have led teams of up to six engineers, reviewed architecture and code, mentored junior developers, interviewed candidates, planned milestones, and worked closely with designers, artists, technical artists, producers, and server engineers.
 
-## Skills
+I also care deeply about how games *feel*, not only how they are implemented. I have spent thousands of hours playing games such as *Street Fighter V*, *Elden Ring*, *Cyberpunk 2077*, and *Baldur's Gate 3*, and I bring that player perspective into gameplay and engineering decisions.
+
+## Core Expertise
+
+- **Gameplay & Architecture:** Game Architecture, Gameplay Systems, Combat Systems, Character Controllers, AI, Animation Systems
+- **Multiplayer:** Client/Server Architecture, State Synchronization, Deterministic Lockstep, Replay Systems, Networked Combat
+- **Engines:** Unity 6, Unreal Engine 4/5, NeoX, Gamebryo, proprietary C++ engines
 - **Languages:** C++, C#, Python, Lua
-- **Engines:** Unity, Unreal Engine, NeoX / proprietary C++ engines
-- **Specialties:** Gameplay, Combat Systems, Animation Systems, Physics, Multiplayer Networking, UI, Tools Development, Live Update Systems
-- **Middleware / Libraries:** Spine, Live2D, Wwise, CRIWARE, Bullet, Box2D, IMGUI, Cocos2d-x
+- **Tools & Pipelines:** Editor Tools, Content Pipelines, Live Update Systems, CI/CD, Localization, Build Automation
+- **Additional Technologies:** Unreal GAS, StateTree, Spine, Live2D, Wwise, CRIWARE, Magica Cloth, Bullet, Box2D, IMGUI, Cocos2d-x
 
 ## Career
-- [Supernova Games](https://www.gamesupernova.com/), Unity Engineer (2024 - Present)
-- [LingXi Games of Alibaba Group](https://www.alibabagroup.com/en-US/about-alibaba-businesses-1496656377454526464), Senior Engineer (2022 - 2024)
-- [NetEase Games](https://www.neteasegames.com/), Senior Engineer (2011 - 2022)
-- YangYao Games, Game Engineer (2010 - 2011)
-- Leeuu Games, Game Engineer (2006 - 2009)
 
-## Education
-- [XiAn University of Technology](https://www.xaut.edu.cn/), Bachelor of Materials Physics
-- **Languages:** Chinese/Cantonese (native), English (conversational)
+- [Supernova Games](https://www.gamesupernova.com/) — Senior Game Engineer (2024 - Present)
+- [LingXi Games of Alibaba Group](https://www.alibabagroup.com/en-US/about-alibaba-businesses-1496656377454526464) — Senior Engineer (Dec 2021 - May 2024)
+- [NetEase Games](https://www.neteasegames.com/) — Senior / Lead Engineer (May 2011 - Dec 2021)
+- YangYao Games — Game Engineer (2010 - 2011)
+- Leeuu Games — Gameplay Engineer (2006 - 2009)
 
-## Projects
+## Current Contract Work
+
+In addition to my main role, I take on a limited amount of part-time contract work to stay hands-on with modern gameplay technology and different production environments.
+
+### Unannounced UE5 Action Game
+
+**Role:** Senior Gameplay Engineer  
+**Technology:** Unreal Engine 5.7, C++, Blueprints
+
+I built the project's core combat framework from scratch. The project is still in an early stage, and my current focus is enemy characters, combat behavior, and AI as part of a three-engineer programming team.
+
+### Unannounced Unity 6 Action Game
+
+**Role:** Lead Programmer  
+**Technology:** Unity 6, C#, ECS
+
+I am leading programming for an early-stage survivors-like action game. I built the project architecture and core gameplay systems from scratch using Unity ECS and am responsible for the technical direction of the core gameplay.
+
+## Selected Projects
 
 ### Purr-fect Chef: Cats Can Cook (2024 - Present)
 
 ![purr-fect-chef-](purr-fect-chef-01.png)
 
-[App Store](https://apps.apple.com/us/app/purr-fect-chef-cats-can-cook/id1603186963) | [Google Play](https://play.google.com/store/apps/details?id=com.gameplus.teaapp&hl=en_US) | [Steam](https://store.steampowered.com/app/3510590/)
+[App Store](https://apps.apple.com/us/app/purr-fect-chef-cats-can-cook/id1603186963) | [Google Play](https://play.google.com/store/apps/details?id=com.gameplus.teaapp&hl=en_US) | [Steam](https://store.steampowered.com/app/3510590/) | [Reddit](https://www.reddit.com/r/PurrfectChef/s/uXG9wC7TO8) | [Jest](https://jest.com/g/purr-fect-chef)
 
-**Development Tools:** Unity3D, C#, Spine
+**Role:** Senior Game Engineer  
+**Technology:** Unity, C#, Spine, Nakama  
+**Platforms:** Mobile | PC (Steam) | Web (Reddit, Jest)
 
-**Target Platform:** Mobile, PC, WebGL (Reddit)
+The current Unity version was rebuilt almost completely from the legacy Cocos2d implementation. I started the Unity project from the ground up, established the initial architecture and core systems, and other engineers later joined the project. The engineering team currently consists of three client engineers and one backend engineer.
 
-**Project description:** A new title in the Purr-fect Chef franchise, built in Unity for live operations and cross-platform delivery.
+**Technical highlights:**
 
-**My role:** Senior Engineer
-
-**My accomplishments:**
-1. Architected the game framework and core systems, establishing a scalable foundation for long-term feature development.
-2. Designed and implemented the resource and script patching system, enabling faster live updates and hotfix workflows.
-3. Created an AI-integrated localization workflow, improving multilingual content delivery efficiency.
-4. Created an AI-assisted content workflow for short stories and adventures, accelerating narrative iteration.
-5. Implemented the multiplayer framework, enabling online gameplay features.
+1. Rebuilt the game architecture and core systems in Unity, creating the foundation used by the current team.
+2. Designed and implemented the resource and script patching system, allowing code and content hot updates without requiring a new store submission.
+3. Led cross-platform development and deployment across mobile, PC (Steam), and Web platforms (Reddit and Jest).
+4. Designed and implemented the multiplayer architecture and online gameplay foundation. Multiplayer is currently under development.
+5. Created AI-assisted localization and narrative-content workflows for multilingual delivery and content iteration.
+6. Contributed to two additional casual games shipped on Douyin, ByteDance's China-market short-video platform.
+7. Currently working on reusable cross-platform infrastructure shared across casual-game projects.
 
 ### Basketball Girls: AIM FOR THE SKY (2022 - 2024)
 
 ![basketball-girls-](basketball-girls-01.jpg)
 
-[Gameplay Video](https://www.youtube.com/watch?v=gb1K52Zx5ok)
+[Gameplay](https://www.youtube.com/watch?v=gb1K52Zx5ok)
 
-**Development Tools:** Unity3D, C#, Lua, Live2D
+**Role:** Senior Engineer  
+**Technology:** Unity, C#, Lua, Live2D, Magica Cloth  
+**Platform:** Mobile
 
-**Target Platform:** Mobile
+A mobile character-management game inspired by *Uma Musume Pretty Derby*. Players manage a girls' basketball club and experience character-driven storylines. I joined during early development and focused on the story-production toolchain, character presentation, UI scripting, animation, and physics integration.
 
-**Project description:** A mobile character-management game inspired by *Uma Musume Pretty Derby*, where players manage a girls' basketball club and explore team storylines. I joined early to help build the story toolchain, character animation pipeline, and physics systems.
+**Technical highlights:**
 
-**My role:** Senior Engineer
+1. Developed the story-production toolchain, including a node editor for story flow, a dialogue/scenario editor, timeline editing, and runtime story systems.
+2. Worked with technical artists to integrate cel-shaded 3D characters into story scenes and establish character asset standards.
+3. Developed facial-expression workflows covering eyebrows, eyes, cheeks, and mouth animation.
+4. Integrated physics-driven hair animation with Magica Cloth and developed Timeline-based character control.
+5. Introduced Live2D character presentation and integrated it with the story pipeline.
+6. Built the Lua UI scripting foundation with data binding between Lua and Unity component properties.
+7. Extended Unity Timeline with flow control, generic tweening, runtime track/clip activation, Lua data binding, and other production features.
 
-**My accomplishments:**
-1. Developed the story toolchain, enabling writers and designers to author interactive story content efficiently.
-2. Collaborated with technical artists to integrate cel-shaded 3D characters into story scenes, improving visual quality and consistency.
-3. Built the Lua UI scripting framework, improving UI iteration speed.
-4. Extended Unity Timeline functionality, enabling more complex story flows and animation sequencing.
-
-### Visions of Mana (2020 - 2022)
+### Sakura Studio — Multiplayer Action R&D / Visions of Mana (2020 - 2021)
 
 ![Visions-of-Mana-](Visions-of-Mana-01.jpg)
 
-[YouTube Video](https://youtu.be/9biJipMQ-9Y) | [Steam](https://store.steampowered.com/app/2490990/_Visions_of_Mana/)
+[Gameplay](https://youtu.be/9biJipMQ-9Y) | [Steam](https://store.steampowered.com/app/2490990/_Visions_of_Mana/)
 
-**Development Tools:** UE4, C++, Python, GAS
+**Role:** Lead Multiplayer Engineer  
+**Technology:** Unreal Engine 4, C++, Python, GAS  
+**Platforms:** PC, PlayStation, Xbox
 
-**Target Platform:** PC, PS5, Xbox
+Sakura Studio was an international action-game studio within NetEase working on several console projects in parallel. These included *Visions of Mana* with Square Enix, a Gundam action project with Bandai Namco, a Fate RPG project with TYPE-MOON, and a NetEase-owned action title.
 
-**Project description:** A major entry in Square Enix's long-running Mana series, shipped on Steam, PS4/5, and Xbox. NetEase Sakura Studio collaborated with Square Enix on development, and my primary focus was studio-wide Unreal Engine infrastructure and multiplayer R&D.
+My role focused on shared Unreal Engine infrastructure and multiplayer R&D rather than shipping multiplayer functionality in *Visions of Mana* itself.
 
-**My role:** Lead Multiplayer Engineer
+**Technical highlights:**
 
-**My accomplishments:**
-1. Maintained the Unreal Python binding plugin and ported the Python runtime to PS4/5, enabling scripting workflows on console targets.
-2. Developed multiple experimental multiplayer gameplay prototypes, supporting rapid mode validation.
-3. Led a small engineering team to design and build a generic networked combat system, creating reusable multiplayer infrastructure for future projects.
+1. Led a four-engineer multiplayer team developing reusable multiplayer and combat technology.
+2. Architected a reusable networked combat framework on top of Unreal's Gameplay Ability System (GAS).
+3. Led experimental work on improved state synchronization and rollback techniques for action gameplay.
+4. Built multiplayer gameplay prototypes including deathmatch, capture-the-flag, 3v3 team combat, control, escort, and battleground-style modes.
+5. Maintained and optimized the studio's Unreal Python integration.
+6. Ported the Python runtime to PS4/PS5 so high-level Python gameplay scripts could execute directly on console.
+7. Supported Python gameplay scripting across four studio projects targeting console platforms.
 
-### Onmyoji The Card Game (2018 - 2020)
+### Onmyoji: The Card Game (2018 - 2020)
 
 ![onmyoji-the-card-game-](onmyoji-the-card-game-01.jpg)
 
-[Gameplay Video](https://youtu.be/8XSc2hGH3Ak) | [Narrative Video](https://youtu.be/TiPahqEEc9Q)
+[Gameplay](https://youtu.be/8XSc2hGH3Ak) | [Narrative](https://youtu.be/TiPahqEEc9Q)
 
-**Development Tools:** NeoX, C++, Python, Spine, CRIWARE Sofdec2, Cocos2d-x
+**Role:** Lead Client Engineer  
+**Technology:** NeoX, C++, Python, Spine, CRIWARE Sofdec2, Cocos2d-x  
+**Platforms:** Mobile, PC
 
-**Target Platform:** Mobile
+A strategy card game in the *Onmyoji* universe. I joined at the beginning of the project, built the client architecture from scratch, and led the six-engineer client team through commercial launch. The project had separate client and server engineering teams.
 
-**Project description:** A strategy card game similar to MTG. Launched on December 12, 2019, the game has remained live for more than six years, with players collecting cards through packs and battling each other online.
+**Technical highlights:**
 
-**My role:** Lead Client Engineer
-
-**My accomplishments:**
-1. Led client-side technical planning and architecture, coordinating core systems, UI, story, battle presentation, and replay workflows.
-2. Architected the client framework, enabling stable long-term feature development.
-3. Developed card and battlefield visual effects, improving gameplay presentation quality.
-4. Built the story system as a runtime implementation of Kirikiri/KAG3 scripts, enabling flexible narrative content authoring.
-5. Developed the battle recording and playback system, enabling replay and debugging workflows.
+1. Led client architecture, technical planning, task breakdown, code review, and delivery from initial development through launch.
+2. Coordinated development across gameplay, UI, story, battle presentation, replay, tools, and live-service systems.
+3. Developed card and battlefield presentation combining 3D rendering, Spine animation, CRIWARE video textures, and custom shaders.
+4. Built the story runtime as an implementation of Kirikiri/KAG3 scripting for flexible narrative authoring.
+5. Designed and implemented battle recording and deterministic playback.
+6. Built player-shared replay and real-time spectating functionality.
+7. Established Jenkins CI and automated build workflows for iOS, Android, and PC, with a weekly client patching process.
+8. Integrated in-game livestreaming and real-time social interaction through third-party platform SDKs.
 
 ### Soul and Machine (2016 - 2018)
 
 ![soul-and-machine-](soul-and-machine-01.jpg)
 
-[YouTube Video](https://youtu.be/wGAwF4LlvWY)
+[Gameplay](https://youtu.be/wGAwF4LlvWY)
 
-**Development Tools:** NeoX, C++, Python, Cocos2d-x
+**Role:** Lead Engineer  
+**Technology:** NeoX, C++, Python, Cocos2d-x, Box2D  
+**Platform:** Mobile
 
-**Target Platform:** Mobile
+A 3D side-scrolling action MOBA built around 4v4 team combat. I led a five-engineer programming team through prototype and TestFlight development.
 
-**Project description:** A 3D side-scrolling action MOBA with 4v4 team battles. The project was discontinued after two iOS TestFlight rounds.
+**Technical highlights:**
 
-**My role:** Lead Engineer
+1. Designed the ECS-based game architecture and deterministic combat simulation.
+2. Built deterministic lockstep synchronization using fixed-step simulation.
+3. Developed command-stream battle recording and deterministic replay.
+4. Built desynchronization tooling that could identify the exact simulation frame where clients diverged.
+5. Developed the networked combat system for matches containing eight player characters, NPC soldiers, projectiles, and battlefield structures.
+6. Led development of the character-action editor and level editor used by the content team.
 
-**My accomplishments:**
-1. Led overall client engineering across gameplay, networking, tools, and architecture during prototype and TestFlight development.
-2. Built deterministic lockstep synchronization, enabling authoritative multiplayer consistency.
-3. Developed a networked combat system, supporting real-time competitive gameplay.
-4. Designed an ECS game architecture, improving modularity and maintainability.
-5. Led development of character action and level editors, improving content production efficiency.
+The project was discontinued after two iOS TestFlight rounds.
 
 ### The Phantom Soul (2014 - 2016)
 
 ![the-phantom-soul-](the-phantom-soul-01.jpg)
 
-[YouTube Video](https://youtu.be/mKkVkG_UrrY)
+[Gameplay](https://youtu.be/mKkVkG_UrrY)
 
-**Development Tools:** NeoX, C++, Python, Cocos2d-x
+**Role:** Lead Engineer  
+**Technology:** NeoX, C++, Python, Cocos2d-x  
+**Platform:** Mobile
 
-**Target Platform:** Mobile
+A 3D side-scrolling multiplayer ARPG supporting four-player cooperative dungeons and 1v1 PvP. I led a four-engineer programming team and designed much of the project's core technology.
 
-**Project description:** A 3D side-scrolling multiplayer ARPG. Players could challenge dungeons in teams of up to four or engage in 1v1 PvP. The game was released on iOS and Android.
+**Technical highlights:**
 
-**My role:** Lead Engineer
+1. Led the programming team from core development through commercial launch.
+2. Designed the core game architecture and client/server multiplayer architecture.
+3. Developed the character controller and combat system.
+4. Implemented multiplayer state synchronization.
+5. Developed behavior-tree-driven AI, companion systems, character-authoring tools, and special-skill gameplay.
+6. Shipped separate mainland-China and Hong Kong/Taiwan versions.
+7. The title remained in commercial operation for approximately three years.
 
-**My accomplishments:**
-1. Led the programming team from core development through launch, coordinating gameplay, online systems, tools, and production support.
-2. Designed and implemented the game architecture, supporting core gameplay and online systems.
-3. Developed the character controller, combat system, and companion editor, enabling scalable gameplay development.
-4. Implemented the state synchronization mechanism, improving multiplayer reliability.
-5. Developed gameplay features such as behavior-tree-driven AI and special skill effects, expanding combat depth.
+## Earlier Projects
 
 ### Chronicles of Crystal (2012 - 2014)
 
 ![chronicles-of-crystal-](chronicles-of-crystal-01.jpg)
 
-[YouTube Video](https://youtu.be/dE_K94Xy76E)
+[Gameplay](https://youtu.be/dE_K94Xy76E)
 
-**Development Tools:** NeoX, C++, Python
+**Role:** Gameplay / Multiplayer Engineer  
+**Technology:** NeoX, C++, Python  
+**Platform:** PC
 
-**Target Platform:** PC
+A side-scrolling multiplayer action game released on NetEase's iTown PC platform with four-player cooperative dungeon gameplay.
 
-**Project description:** A side-scrolling multiplayer action game released on NetEase's iTown PC platform. It supported four-player co-op dungeon runs.
+**Technical highlights:**
 
-**My role:** Gameplay / Multiplayer Engineer
-
-**My accomplishments:**
-1. Developed the networked combat system, enabling online co-op gameplay.
-2. Built the collision detection system, improving gameplay stability.
-3. Built the AOI (area of interest) system, optimizing network performance.
-4. Created the level editor, improving production speed for content teams.
+1. Developed multiplayer synchronization and networked combat systems.
+2. Built collision detection and AOI (Area of Interest) systems.
+3. Contributed to the level editor and production tools.
+4. Developed gameplay features from early development through release.
 
 ### Windy Island (2011 - 2012)
 
 ![windy-island-](windy-island-01.jpg)
 
-[YouTube Video](https://youtu.be/WnF3DK0E0WM)
+[Gameplay](https://youtu.be/WnF3DK0E0WM)
 
-**Development Tools:** NeoX, C++, Python
+**Role:** Gameplay / Multiplayer / Tools Engineer  
+**Technology:** NeoX, C++, Python  
+**Platform:** PC
 
-**Target Platform:** PC
+A side-scrolling multiplayer racing game in which up to four players raced through stages and attacked each other with collected items.
 
-**Project description:** A side-scrolling multiplayer racing game. Up to four players raced in stages similar to Super Mario and attacked each other using items collected along the way. The game was released on NetEase's iTown PC platform.
+**Technical highlights:**
 
-**My role:** Gameplay / Multiplayer / Tool Engineer
+1. Developed gameplay and race-combat features.
+2. Implemented character synchronization for multiplayer races.
+3. Built and maintained level-design tooling.
 
-**My accomplishments:**
-1. Developed gameplay features, expanding core race-combat interactions.
-2. Built the level editor, improving stage iteration speed.
-3. Implemented character synchronization, enabling stable multiplayer races.
+### Unannounced 3D Multiplayer Life-Simulation Game (2010 - 2011)
+
+**Role:** Client Game Engineer  
+**Technology:** Gamebryo, C++  
+**Platform:** PC
+
+At YangYao Games, an early-stage startup, I worked on the client side of a 3D multiplayer life-simulation game with farming, social interaction, and persistent multiplayer systems. The project had design similarities to games such as *Harvest Moon*. The studio later closed before the project reached commercial release.
 
 ### Romantic Country (2008)
 
 ![romantic-country-](romantic-country-01.jpg)
 
-[YouTube Video](https://youtu.be/GPf5Xa5EeUw)
+[Gameplay](https://youtu.be/GPf5Xa5EeUw)
 
-**Development Tools:** C++
+**Role:** Gameplay Programmer  
+**Technology:** C++  
+**Platform:** PC
 
-**Target Platform:** PC
+A multiplayer simulation game centered on farming, housing, social interaction, and user-generated content. Players could build and decorate houses, manage farms, create clothing, visit other players, and meet in shared social spaces.
 
-**Project description:** An innovative multiplayer simulation game released on PC in 2008 and operated for about 10 years. The game centered on user-generated content, allowing players to design homes, farms, and clothing and share their creations with the community. These systems created a high degree of player freedom and helped sustain long-term engagement.
+**Technical highlights:**
 
-**My role:** Gameplay Programmer
+1. Developed core gameplay features.
+2. Contributed to the in-game house-design system that allowed players to create and customize their own spaces.
+3. The title remained in commercial operation for approximately 10 years.
 
-**My accomplishments:** Developed core gameplay features and contributed to the in-game house design tool.
+## Education
+
+[Xi'an University of Technology](https://www.xaut.edu.cn/) — Bachelor of Materials Physics
