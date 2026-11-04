@@ -69,7 +69,7 @@ A character-management game built around story-driven progression. I joined earl
 3. Built the Lua UI scripting framework with data binding.
 4. Extended Unity Timeline with flow control, tweening, runtime activation, and Lua integration.
 
-### Sakura Studio — Multiplayer Action R&D / Visions of Mana
+### Visions of Mana
 
 ![Visions-of-Mana-](Visions-of-Mana-01.jpg)
 
