@@ -33,11 +33,14 @@
           {{ partial "footer_telegram" . }}
           {{ partial "footer_linkedin" . }}
           {{ partial "footer_email" . }}
-          {{ partial "footer_rss" . }}
+          {{ if not .Site.Params.hideRSS }}
+            {{ partial "footer_rss" . }}
+          {{ end }}
 
-          {{ if .IsTranslated }}
+          {{ $translations := where .Translations "Language.Lang" "ne" "zh-cn" }}
+          {{ if $translations }}
             <div>
-              {{ range .Translations }}
+              {{ range $translations }}
                 <a href="{{ .Permalink }}" class="mx-1 ml-md-2 mr-md-0">
                   <strong>{{ upper .Language.Label }}</strong>
                 </a>
